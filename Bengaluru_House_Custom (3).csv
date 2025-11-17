@@ -1,0 +1,1001 @@
+location,house_type,age,total_sqft,bhk,bath,balcony,furnished,parking,floor,society,metro_distance_km,price_lakhs
+Kanakpura Road,Apartment,3,1124,3.0,1.0,0.0,Semi-Furnished,0.0,13.0,Society,7.48,95.0
+Hebbal,Land,6,2828,,,,,,,,7.85,111.07
+Yelahanka,Land,2,1384,,,,,,,,8.07,65.29
+JP Nagar,Apartment,3,1532,1.0,1.0,0.0,Semi-Furnished,1.0,9.0,Society,8.77,130.75
+HSR Layout,Apartment,6,1083,4.0,2.0,1.0,Furnished,1.0,20.0,Simple Apartment,6.59,77.7
+Kengeri,Land,6,3148,,,,,,,,2.0,116.63
+Electronic City,Banglow,6,4986,,3.0,0.0,Furnished,,,,9.95,335.38
+Electronic City,Apartment,3,692,3.0,2.0,2.0,Furnished,2.0,10.0,Simple Apartment,8.53,35.98
+Bannerghatta Road,Apartment,1,1396,3.0,3.0,1.0,Semi-Furnished,1.0,19.0,Society,0.29,97.68
+Whitefield,Land,2,585,,,,,,,,4.5,22.57
+HSR Layout,Land,6,1134,,,,,,,,8.55,85.86
+Kengeri,Apartment,3,2481,3.0,3.0,1.0,Semi-Furnished,1.0,15.0,Simple Apartment,1.27,85.8
+Marathahalli,Banglow,5,3174,,2.0,2.0,Furnished,,,,4.07,281.81
+Sarjapur Road,Land,3,1002,,,,,,,,2.77,24.25
+Uttarahalli,Land,3,2916,,,,,,,,2.28,113.48
+HSR Layout,Apartment,5,1792,3.0,3.0,1.0,Semi-Furnished,2.0,17.0,Society,8.64,137.29
+Rajaji Nagar,Apartment,3,817,2.0,3.0,2.0,Semi-Furnished,2.0,2.0,Society,3.68,79.0
+Hoodi,Banglow,4,2196,,1.0,1.0,Semi-Furnished,,,,5.74,235.65
+Chikkalasandra,Land,4,5000,,,,,,,,5.73,328.35
+KR Puram,Apartment,1,2349,1.0,2.0,1.0,Semi-Furnished,1.0,7.0,Society,5.33,136.7
+Electronic City,Land,4,1137,,,,,,,,8.47,70.19
+Uttarahalli,Banglow,4,4839,,3.0,1.0,Unfurnished,,,,6.5,630.33
+Chikkalasandra,Apartment,2,1023,1.0,4.0,2.0,Furnished,2.0,16.0,Simple Apartment,4.23,66.35
+Kengeri,Banglow,6,1638,,4.0,0.0,Furnished,,,,0.17,207.24
+Indira Nagar,Apartment,1,2118,1.0,3.0,2.0,Unfurnished,2.0,18.0,Society,8.14,119.67
+Rajaji Nagar,Apartment,1,1882,3.0,2.0,2.0,Furnished,2.0,5.0,Society,5.44,164.26
+Sarjapur Road,Land,1,767,,,,,,,,6.94,54.99
+Kengeri,Banglow,4,3674,,1.0,0.0,Unfurnished,,,,8.66,357.76
+Kengeri,Apartment,1,1539,2.0,4.0,1.0,Unfurnished,1.0,17.0,Simple Apartment,6.71,53.37
+HSR Layout,Land,3,2457,,,,,,,,8.48,75.03
+Electronic City,Land,1,4218,,,,,,,,2.28,206.46
+Whitefield,Banglow,3,4670,,1.0,1.0,Furnished,,,,5.16,639.62
+Hoodi,Banglow,1,4162,,2.0,1.0,Semi-Furnished,,,,5.1,243.35
+Kengeri,Land,6,3936,,,,,,,,1.94,95.98
+HSR Layout,Apartment,3,2041,3.0,2.0,1.0,Furnished,1.0,1.0,Society,6.71,177.88
+Bannerghatta Road,Apartment,3,1538,4.0,2.0,2.0,Semi-Furnished,0.0,16.0,Simple Apartment,3.26,97.97
+Bannerghatta Road,Banglow,4,3991,,4.0,1.0,Furnished,,,,6.04,504.07
+Kanakpura Road,Apartment,3,1391,4.0,3.0,2.0,Furnished,2.0,12.0,Society,6.05,121.35
+Bannerghatta Road,Land,1,881,,,,,,,,3.24,28.44
+Bannerghatta Road,Banglow,6,1365,,2.0,1.0,Furnished,,,,1.51,78.26
+KR Puram,Land,5,3354,,,,,,,,4.58,204.39
+JP Nagar,Banglow,5,2928,,2.0,2.0,Unfurnished,,,,2.17,380.88
+Sarjapur Road,Apartment,5,1853,3.0,2.0,1.0,Semi-Furnished,2.0,20.0,Society,3.11,120.69
+Hoodi,Land,3,2621,,,,,,,,6.5,136.75
+Rajaji Nagar,Banglow,5,3895,,3.0,0.0,Furnished,,,,6.59,535.19
+Indira Nagar,Banglow,4,4556,,1.0,0.0,Furnished,,,,6.19,373.9
+Indira Nagar,Apartment,5,1443,2.0,1.0,1.0,Furnished,1.0,17.0,Society,4.36,67.29
+Koramangala,Banglow,4,1847,,3.0,1.0,Unfurnished,,,,2.95,126.72
+Sarjapur Road,Banglow,5,4103,,4.0,0.0,Unfurnished,,,,9.28,591.34
+Chikkalasandra,Banglow,2,1982,,1.0,2.0,Furnished,,,,6.94,147.99
+KR Puram,Land,6,3175,,,,,,,,7.69,90.06
+Bellandur,Banglow,4,1842,,1.0,1.0,Furnished,,,,5.82,163.7
+Chikkalasandra,Land,4,2362,,,,,,,,3.61,184.79
+Yelahanka,Banglow,3,3983,,3.0,1.0,Furnished,,,,4.17,505.87
+Marathahalli,Apartment,6,950,2.0,2.0,0.0,Furnished,1.0,8.0,Society,5.5,75.33
+Chikkalasandra,Apartment,5,1225,4.0,4.0,0.0,Unfurnished,2.0,1.0,Society,8.82,66.11
+Whitefield,Banglow,3,3171,,3.0,1.0,Furnished,,,,9.0,386.61
+KR Puram,Banglow,3,4305,,1.0,0.0,Unfurnished,,,,8.02,542.49
+Koramangala,Land,2,2904,,,,,,,,9.78,218.37
+Bannerghatta Road,Land,1,3665,,,,,,,,8.29,237.39
+Whitefield,Apartment,1,2168,2.0,1.0,1.0,Furnished,2.0,3.0,Simple Apartment,9.53,190.81
+Sarjapur Road,Banglow,3,1769,,2.0,0.0,Furnished,,,,6.2,113.14
+HSR Layout,Banglow,3,2864,,2.0,1.0,Unfurnished,,,,0.36,371.29
+Rajaji Nagar,Banglow,5,4054,,3.0,2.0,Unfurnished,,,,6.1,529.57
+Rajaji Nagar,Apartment,3,1640,3.0,2.0,1.0,Semi-Furnished,1.0,11.0,Society,0.28,94.54
+Yelahanka,Apartment,1,1395,4.0,3.0,2.0,Unfurnished,0.0,17.0,Society,2.6,64.95
+Uttarahalli,Land,2,4359,,,,,,,,6.75,275.05
+Hebbal,Land,3,4342,,,,,,,,7.43,318.78
+Marathahalli,Apartment,4,2277,1.0,3.0,2.0,Semi-Furnished,0.0,1.0,Society,5.33,191.14
+Marathahalli,Apartment,6,970,4.0,4.0,0.0,Unfurnished,2.0,15.0,Society,4.48,94.74
+Hoodi,Apartment,5,789,1.0,2.0,1.0,Furnished,1.0,5.0,Society,4.44,60.44
+Rajaji Nagar,Land,2,1656,,,,,,,,3.68,108.56
+JP Nagar,Land,1,1034,,,,,,,,9.75,48.39
+Marathahalli,Land,6,1197,,,,,,,,5.93,73.1
+Uttarahalli,Banglow,3,3236,,2.0,2.0,Semi-Furnished,,,,5.0,463.43
+Marathahalli,Apartment,6,2239,2.0,2.0,2.0,Semi-Furnished,1.0,6.0,Society,1.78,177.59
+Whitefield,Apartment,4,2405,1.0,1.0,1.0,Semi-Furnished,0.0,11.0,Society,2.01,187.34
+Koramangala,Land,5,1685,,,,,,,,0.51,102.34
+JP Nagar,Apartment,6,862,2.0,4.0,1.0,Semi-Furnished,1.0,20.0,Society,1.59,77.15
+Electronic City,Apartment,6,1528,4.0,2.0,0.0,Furnished,0.0,19.0,Society,0.96,120.65
+Rajaji Nagar,Land,1,967,,,,,,,,9.67,63.55
+Chikkalasandra,Banglow,6,1300,,2.0,1.0,Unfurnished,,,,4.36,161.78
+Kanakpura Road,Land,2,1563,,,,,,,,5.29,40.58
+KR Puram,Banglow,6,2546,,1.0,2.0,Furnished,,,,0.7,269.68
+Hebbal,Land,4,2591,,,,,,,,2.99,147.23
+Yelahanka,Apartment,1,1135,3.0,1.0,1.0,Furnished,0.0,13.0,Society,4.07,110.74
+Kanakpura Road,Apartment,2,2421,1.0,1.0,1.0,Furnished,0.0,18.0,Society,7.26,154.01
+Yelahanka,Banglow,6,2099,,3.0,0.0,Furnished,,,,3.68,183.2
+Chikkalasandra,Apartment,4,2419,2.0,3.0,0.0,Semi-Furnished,0.0,15.0,Society,2.62,220.62
+Electronic City,Land,4,3145,,,,,,,,2.67,251.38
+Chikkalasandra,Banglow,4,2068,,3.0,1.0,Unfurnished,,,,1.12,156.74
+Bannerghatta Road,Apartment,6,1021,3.0,1.0,1.0,Furnished,2.0,20.0,Simple Apartment,3.39,51.63
+HSR Layout,Banglow,6,1714,,4.0,2.0,Furnished,,,,6.62,173.14
+Whitefield,Land,2,2732,,,,,,,,2.21,82.7
+KR Puram,Banglow,2,4589,,2.0,0.0,Semi-Furnished,,,,5.74,359.27
+KR Puram,Land,3,1326,,,,,,,,1.57,81.96
+Uttarahalli,Banglow,6,3788,,3.0,2.0,Semi-Furnished,,,,0.27,370.39
+Electronic City,Banglow,4,1815,,3.0,0.0,Furnished,,,,7.92,119.66
+Yelahanka,Banglow,5,2096,,2.0,2.0,Semi-Furnished,,,,1.78,307.08
+Koramangala,Apartment,1,695,3.0,3.0,2.0,Furnished,2.0,18.0,Simple Apartment,6.86,43.11
+Hebbal,Land,3,1157,,,,,,,,7.65,64.13
+Chikkalasandra,Apartment,6,2440,1.0,3.0,2.0,Unfurnished,0.0,5.0,Society,9.08,143.56
+Koramangala,Land,5,3762,,,,,,,,7.72,288.02
+Whitefield,Banglow,2,2057,,3.0,1.0,Furnished,,,,6.8,217.17
+HSR Layout,Land,6,801,,,,,,,,7.39,21.25
+Whitefield,Banglow,1,3619,,4.0,2.0,Unfurnished,,,,1.83,304.84
+Electronic City,Land,2,4545,,,,,,,,2.31,203.47
+KR Puram,Apartment,5,516,3.0,4.0,1.0,Furnished,2.0,10.0,Society,3.08,26.66
+Bannerghatta Road,Banglow,1,2464,,2.0,1.0,Unfurnished,,,,1.57,123.9
+HSR Layout,Banglow,5,3205,,1.0,1.0,Unfurnished,,,,5.94,258.44
+Yelahanka,Apartment,3,1537,4.0,3.0,0.0,Unfurnished,1.0,14.0,Simple Apartment,2.75,124.77
+Uttarahalli,Land,6,2268,,,,,,,,1.02,75.12
+Kengeri,Land,3,2275,,,,,,,,4.9,102.65
+Kengeri,Land,6,2394,,,,,,,,0.38,126.45
+Whitefield,Banglow,3,2745,,4.0,2.0,Furnished,,,,2.29,172.91
+Electronic City,Banglow,1,3047,,3.0,2.0,Semi-Furnished,,,,4.58,332.03
+Kengeri,Apartment,2,1673,1.0,4.0,2.0,Furnished,1.0,8.0,Simple Apartment,5.3,114.43
+JP Nagar,Banglow,4,3148,,4.0,2.0,Furnished,,,,1.18,281.16
+Kanakpura Road,Banglow,1,4501,,2.0,0.0,Furnished,,,,1.37,672.27
+Kengeri,Banglow,3,3565,,3.0,2.0,Furnished,,,,1.25,438.71
+Uttarahalli,Land,4,3143,,,,,,,,7.92,216.71
+JP Nagar,Banglow,3,4588,,3.0,0.0,Semi-Furnished,,,,4.37,507.56
+Chikkalasandra,Apartment,2,1439,4.0,1.0,0.0,Semi-Furnished,2.0,10.0,Society,8.52,127.88
+Chikkalasandra,Banglow,6,2909,,4.0,2.0,Furnished,,,,8.23,190.38
+Whitefield,Banglow,6,2888,,3.0,1.0,Unfurnished,,,,6.7,203.98
+Bellandur,Apartment,2,1121,1.0,4.0,2.0,Unfurnished,0.0,8.0,Society,6.58,42.73
+Uttarahalli,Land,2,2725,,,,,,,,4.71,164.44
+Marathahalli,Banglow,6,2031,,2.0,2.0,Semi-Furnished,,,,7.69,98.86
+JP Nagar,Apartment,5,654,1.0,1.0,2.0,Unfurnished,1.0,1.0,Simple Apartment,0.67,20.33
+Kengeri,Land,4,4676,,,,,,,,1.98,227.61
+Koramangala,Banglow,1,4846,,1.0,2.0,Unfurnished,,,,9.97,356.65
+HSR Layout,Banglow,3,1353,,2.0,1.0,Semi-Furnished,,,,9.96,160.99
+Chikkalasandra,Apartment,2,1995,4.0,3.0,1.0,Furnished,1.0,17.0,Society,6.6,171.14
+Marathahalli,Banglow,3,4791,,3.0,0.0,Unfurnished,,,,5.71,702.29
+Sarjapur Road,Land,6,2921,,,,,,,,0.3,168.61
+Kengeri,Land,3,1124,,,,,,,,5.49,80.22
+Yelahanka,Apartment,1,2362,3.0,3.0,1.0,Furnished,2.0,8.0,Society,5.57,128.64
+Whitefield,Land,1,4718,,,,,,,,3.9,341.26
+Bellandur,Apartment,5,1543,3.0,2.0,1.0,Unfurnished,2.0,13.0,Society,1.8,70.39
+Rajaji Nagar,Land,6,2972,,,,,,,,2.86,109.44
+Yelahanka,Land,6,4114,,,,,,,,9.99,301.87
+Uttarahalli,Banglow,3,4751,,3.0,1.0,Unfurnished,,,,9.19,288.34
+Koramangala,Banglow,4,3829,,1.0,0.0,Furnished,,,,2.11,429.4
+HSR Layout,Banglow,5,3773,,4.0,2.0,Furnished,,,,1.51,401.01
+Electronic City,Banglow,6,3301,,1.0,0.0,Semi-Furnished,,,,7.66,215.85
+KR Puram,Apartment,5,1752,1.0,3.0,1.0,Semi-Furnished,0.0,19.0,Society,0.38,102.1
+Bellandur,Apartment,1,1834,1.0,2.0,0.0,Semi-Furnished,0.0,9.0,Society,7.1,169.74
+JP Nagar,Banglow,4,4821,,4.0,2.0,Unfurnished,,,,2.51,537.85
+Kanakpura Road,Apartment,3,1032,1.0,1.0,1.0,Semi-Furnished,2.0,18.0,Society,2.24,55.15
+Kengeri,Apartment,4,1413,1.0,4.0,0.0,Furnished,1.0,4.0,Simple Apartment,3.95,54.87
+Rajaji Nagar,Banglow,4,3764,,2.0,2.0,Unfurnished,,,,1.81,456.72
+Whitefield,Apartment,3,2136,2.0,2.0,2.0,Furnished,2.0,11.0,Simple Apartment,3.92,128.34
+KR Puram,Land,5,4659,,,,,,,,3.47,292.86
+Rajaji Nagar,Banglow,3,1880,,1.0,2.0,Semi-Furnished,,,,3.56,221.81
+Hebbal,Land,6,4126,,,,,,,,8.92,267.16
+Electronic City,Banglow,4,2267,,2.0,2.0,Semi-Furnished,,,,6.8,276.46
+Marathahalli,Apartment,5,2006,2.0,4.0,2.0,Semi-Furnished,1.0,2.0,Society,3.16,105.69
+HSR Layout,Banglow,1,4963,,3.0,1.0,Furnished,,,,8.21,582.91
+JP Nagar,Land,2,1403,,,,,,,,8.33,92.15
+Marathahalli,Land,5,1850,,,,,,,,2.92,56.89
+Kengeri,Land,2,4461,,,,,,,,2.47,332.16
+Whitefield,Banglow,3,3168,,2.0,1.0,Semi-Furnished,,,,1.9,363.84
+Chikkalasandra,Apartment,2,556,1.0,1.0,0.0,Furnished,1.0,18.0,Society,3.06,38.37
+Hoodi,Apartment,6,1074,1.0,3.0,0.0,Semi-Furnished,2.0,3.0,Simple Apartment,1.05,43.74
+Sarjapur Road,Land,1,1683,,,,,,,,9.12,55.81
+Marathahalli,Land,6,2168,,,,,,,,0.81,103.25
+Indira Nagar,Banglow,4,3209,,1.0,1.0,Unfurnished,,,,3.78,312.88
+Bellandur,Apartment,2,1979,3.0,4.0,0.0,Furnished,2.0,8.0,Society,2.31,125.27
+Indira Nagar,Land,3,2677,,,,,,,,2.23,112.11
+Rajaji Nagar,Banglow,2,4178,,2.0,0.0,Semi-Furnished,,,,6.97,293.14
+Kengeri,Banglow,1,4731,,1.0,1.0,Unfurnished,,,,2.94,430.1
+Bellandur,Apartment,6,2344,4.0,1.0,0.0,Semi-Furnished,0.0,7.0,Society,1.12,160.78
+KR Puram,Apartment,4,2295,3.0,4.0,2.0,Semi-Furnished,2.0,18.0,Simple Apartment,4.69,135.77
+Uttarahalli,Land,1,4773,,,,,,,,6.1,217.69
+Uttarahalli,Banglow,2,2695,,3.0,2.0,Semi-Furnished,,,,2.06,125.17
+Whitefield,Banglow,5,3879,,3.0,1.0,Semi-Furnished,,,,6.68,263.57
+Marathahalli,Apartment,5,565,2.0,3.0,0.0,Furnished,2.0,15.0,Simple Apartment,6.82,35.77
+Koramangala,Banglow,1,1873,,4.0,2.0,Semi-Furnished,,,,4.96,216.83
+Sarjapur Road,Land,2,1699,,,,,,,,6.45,61.88
+Uttarahalli,Land,1,2877,,,,,,,,6.37,84.13
+Kanakpura Road,Banglow,1,4219,,4.0,1.0,Furnished,,,,8.61,308.22
+Indira Nagar,Banglow,3,2596,,2.0,2.0,Unfurnished,,,,2.93,368.8
+Whitefield,Banglow,3,3209,,2.0,2.0,Unfurnished,,,,2.61,330.44
+Uttarahalli,Apartment,1,1937,3.0,4.0,2.0,Semi-Furnished,1.0,16.0,Simple Apartment,2.57,77.5
+Sarjapur Road,Apartment,3,636,4.0,3.0,0.0,Semi-Furnished,1.0,13.0,Society,4.01,43.21
+Bellandur,Banglow,5,3596,,1.0,2.0,Furnished,,,,8.85,501.54
+Chikkalasandra,Banglow,2,3213,,1.0,2.0,Furnished,,,,8.68,397.73
+Rajaji Nagar,Apartment,3,2087,3.0,4.0,2.0,Unfurnished,2.0,10.0,Society,6.63,208.16
+Rajaji Nagar,Banglow,3,3669,,2.0,2.0,Unfurnished,,,,1.71,211.02
+Sarjapur Road,Banglow,5,1500,,4.0,2.0,Semi-Furnished,,,,5.47,190.08
+KR Puram,Banglow,1,2079,,1.0,2.0,Semi-Furnished,,,,3.67,186.26
+Kanakpura Road,Apartment,2,1700,4.0,3.0,0.0,Furnished,2.0,14.0,Society,9.36,120.17
+Koramangala,Land,1,2023,,,,,,,,7.54,161.28
+Kengeri,Land,1,3221,,,,,,,,1.19,97.19
+Bellandur,Land,2,1461,,,,,,,,7.63,105.2
+KR Puram,Apartment,2,1606,1.0,1.0,0.0,Unfurnished,0.0,20.0,Simple Apartment,0.4,142.88
+HSR Layout,Land,4,4945,,,,,,,,9.28,214.51
+Bannerghatta Road,Banglow,6,1673,,2.0,2.0,Furnished,,,,4.56,217.87
+KR Puram,Apartment,6,2104,4.0,4.0,0.0,Semi-Furnished,2.0,20.0,Simple Apartment,7.36,185.14
+Electronic City,Land,3,4493,,,,,,,,3.53,316.39
+Sarjapur Road,Banglow,2,4535,,3.0,0.0,Unfurnished,,,,0.13,290.63
+HSR Layout,Land,5,1536,,,,,,,,0.38,100.92
+Rajaji Nagar,Banglow,4,2615,,4.0,2.0,Unfurnished,,,,3.14,356.61
+Uttarahalli,Land,3,1152,,,,,,,,4.79,61.95
+Sarjapur Road,Banglow,2,4611,,1.0,1.0,Unfurnished,,,,6.53,369.24
+Electronic City,Apartment,2,516,4.0,1.0,1.0,Unfurnished,0.0,12.0,Society,7.44,36.05
+Marathahalli,Apartment,3,1240,3.0,1.0,0.0,Semi-Furnished,0.0,11.0,Society,5.1,72.02
+Bellandur,Apartment,4,1536,3.0,2.0,1.0,Semi-Furnished,0.0,20.0,Simple Apartment,5.98,114.34
+Electronic City,Banglow,1,4208,,2.0,0.0,Unfurnished,,,,4.36,376.13
+Sarjapur Road,Banglow,3,3793,,3.0,2.0,Unfurnished,,,,8.43,490.43
+Whitefield,Banglow,6,3779,,2.0,2.0,Furnished,,,,3.47,351.67
+JP Nagar,Land,6,3552,,,,,,,,3.24,220.85
+Koramangala,Land,4,2200,,,,,,,,9.2,76.26
+Hebbal,Banglow,4,4769,,3.0,1.0,Unfurnished,,,,5.3,556.63
+JP Nagar,Apartment,5,2098,4.0,4.0,0.0,Furnished,0.0,19.0,Society,8.5,86.59
+Uttarahalli,Land,3,4971,,,,,,,,1.94,252.21
+Sarjapur Road,Banglow,6,2467,,2.0,2.0,Unfurnished,,,,9.26,237.11
+Koramangala,Land,6,1410,,,,,,,,6.69,88.65
+Hoodi,Apartment,3,1057,2.0,4.0,0.0,Semi-Furnished,2.0,12.0,Simple Apartment,3.34,56.08
+Bellandur,Banglow,6,4973,,1.0,2.0,Semi-Furnished,,,,7.0,675.44
+Yelahanka,Land,4,3724,,,,,,,,8.64,243.2
+JP Nagar,Banglow,2,4035,,2.0,0.0,Unfurnished,,,,4.19,533.75
+Kengeri,Banglow,6,2166,,2.0,0.0,Furnished,,,,6.71,207.82
+Kanakpura Road,Apartment,2,1644,4.0,4.0,2.0,Semi-Furnished,1.0,13.0,Society,7.17,54.09
+Indira Nagar,Banglow,6,3595,,1.0,0.0,Unfurnished,,,,5.15,335.5
+Whitefield,Banglow,1,1404,,3.0,0.0,Unfurnished,,,,2.21,204.07
+Chikkalasandra,Land,4,3329,,,,,,,,9.66,234.64
+Sarjapur Road,Land,4,2423,,,,,,,,1.48,77.06
+Sarjapur Road,Banglow,2,4843,,1.0,2.0,Unfurnished,,,,8.76,315.54
+Uttarahalli,Apartment,5,1838,2.0,4.0,0.0,Unfurnished,1.0,14.0,Simple Apartment,8.81,78.62
+Marathahalli,Land,6,551,,,,,,,,6.5,38.37
+Bellandur,Banglow,3,2543,,4.0,0.0,Unfurnished,,,,7.19,319.52
+Bannerghatta Road,Land,2,4823,,,,,,,,4.17,142.54
+Kengeri,Land,2,1699,,,,,,,,6.53,121.57
+Bellandur,Apartment,2,1044,2.0,2.0,1.0,Semi-Furnished,1.0,8.0,Society,9.43,65.8
+JP Nagar,Land,6,1583,,,,,,,,7.77,72.5
+Bannerghatta Road,Banglow,1,2405,,3.0,2.0,Furnished,,,,3.05,314.57
+Sarjapur Road,Banglow,5,3370,,1.0,2.0,Unfurnished,,,,7.51,330.61
+Sarjapur Road,Apartment,5,988,4.0,3.0,0.0,Furnished,2.0,3.0,Society,1.16,38.6
+Indira Nagar,Banglow,1,3172,,1.0,1.0,Unfurnished,,,,3.62,346.65
+Hebbal,Banglow,1,1211,,1.0,2.0,Semi-Furnished,,,,6.47,105.98
+Marathahalli,Land,6,715,,,,,,,,1.66,54.44
+Hoodi,Apartment,4,1993,3.0,4.0,0.0,Semi-Furnished,0.0,18.0,Simple Apartment,2.2,91.64
+KR Puram,Banglow,3,3012,,2.0,0.0,Furnished,,,,3.17,229.62
+Indira Nagar,Banglow,5,1500,,4.0,0.0,Unfurnished,,,,6.17,215.65
+Hoodi,Banglow,3,3508,,2.0,1.0,Furnished,,,,4.99,459.17
+Kengeri,Land,6,2498,,,,,,,,1.55,73.43
+Electronic City,Banglow,2,1870,,2.0,2.0,Unfurnished,,,,7.03,148.5
+Marathahalli,Banglow,3,1619,,2.0,1.0,Furnished,,,,1.44,126.66
+HSR Layout,Banglow,4,4014,,3.0,0.0,Unfurnished,,,,8.43,593.57
+JP Nagar,Banglow,5,4545,,4.0,1.0,Unfurnished,,,,8.0,302.78
+Whitefield,Apartment,1,2106,1.0,4.0,1.0,Furnished,1.0,8.0,Society,1.77,176.33
+HSR Layout,Banglow,1,2889,,1.0,0.0,Semi-Furnished,,,,0.6,310.85
+Hoodi,Apartment,1,2266,3.0,1.0,1.0,Unfurnished,1.0,18.0,Society,1.47,163.29
+Koramangala,Banglow,5,4762,,2.0,1.0,Furnished,,,,9.57,503.62
+Marathahalli,Apartment,2,1611,2.0,2.0,2.0,Furnished,0.0,15.0,Simple Apartment,9.56,158.71
+Hoodi,Apartment,4,1350,1.0,1.0,0.0,Furnished,2.0,9.0,Society,5.0,78.17
+Sarjapur Road,Apartment,3,861,1.0,1.0,1.0,Furnished,2.0,10.0,Society,8.32,68.43
+Sarjapur Road,Land,4,1361,,,,,,,,8.65,40.93
+Sarjapur Road,Banglow,3,1802,,3.0,2.0,Semi-Furnished,,,,4.3,152.01
+Kengeri,Land,6,2144,,,,,,,,6.19,61.18
+Sarjapur Road,Land,1,1066,,,,,,,,7.87,28.88
+Uttarahalli,Banglow,4,4516,,1.0,2.0,Furnished,,,,8.29,270.75
+HSR Layout,Land,3,3464,,,,,,,,4.3,136.98
+Kengeri,Banglow,5,1618,,4.0,0.0,Unfurnished,,,,5.15,228.64
+Indira Nagar,Apartment,6,1011,1.0,3.0,1.0,Semi-Furnished,1.0,11.0,Society,6.81,92.66
+Sarjapur Road,Apartment,4,1135,1.0,2.0,0.0,Furnished,2.0,16.0,Simple Apartment,4.92,65.02
+Hebbal,Land,2,3523,,,,,,,,8.84,134.0
+Whitefield,Land,6,2895,,,,,,,,1.14,70.53
+Electronic City,Banglow,5,1922,,3.0,1.0,Unfurnished,,,,5.78,91.28
+Kengeri,Banglow,1,1914,,3.0,1.0,Semi-Furnished,,,,8.05,91.98
+Hebbal,Land,4,3456,,,,,,,,5.91,231.02
+KR Puram,Banglow,4,2903,,1.0,1.0,Unfurnished,,,,6.74,206.03
+Electronic City,Land,1,3684,,,,,,,,7.74,215.37
+Hoodi,Banglow,1,1345,,1.0,0.0,Furnished,,,,3.96,190.52
+Whitefield,Apartment,2,2121,4.0,3.0,0.0,Unfurnished,1.0,9.0,Society,9.18,160.19
+Bellandur,Land,3,3260,,,,,,,,1.64,191.15
+JP Nagar,Apartment,1,631,2.0,1.0,2.0,Semi-Furnished,0.0,10.0,Society,6.59,18.98
+Indira Nagar,Apartment,3,2119,4.0,3.0,2.0,Unfurnished,2.0,13.0,Simple Apartment,8.4,151.81
+Whitefield,Banglow,4,2133,,2.0,2.0,Unfurnished,,,,4.39,241.46
+Koramangala,Land,2,556,,,,,,,,0.61,26.4
+Kengeri,Banglow,1,2296,,3.0,0.0,Furnished,,,,2.41,337.53
+Kanakpura Road,Banglow,3,1479,,1.0,1.0,Furnished,,,,7.6,172.5
+Bannerghatta Road,Apartment,3,1469,4.0,2.0,2.0,Furnished,0.0,3.0,Simple Apartment,8.93,106.31
+Hoodi,Banglow,4,3950,,1.0,0.0,Unfurnished,,,,5.05,479.01
+Electronic City,Land,5,598,,,,,,,,2.3,18.42
+Rajaji Nagar,Banglow,4,2330,,4.0,1.0,Furnished,,,,8.39,326.64
+Kanakpura Road,Land,1,564,,,,,,,,9.52,36.31
+Marathahalli,Apartment,4,2261,1.0,1.0,0.0,Furnished,1.0,2.0,Simple Apartment,4.18,178.26
+Kanakpura Road,Banglow,6,1753,,3.0,2.0,Furnished,,,,2.71,261.21
+JP Nagar,Land,1,3064,,,,,,,,3.55,94.01
+Rajaji Nagar,Land,5,3036,,,,,,,,3.58,129.24
+JP Nagar,Land,3,2618,,,,,,,,2.17,84.29
+JP Nagar,Land,5,1043,,,,,,,,2.06,61.33
+Hebbal,Banglow,5,4109,,3.0,0.0,Furnished,,,,3.24,323.07
+Kanakpura Road,Banglow,6,1665,,1.0,1.0,Unfurnished,,,,1.63,240.52
+KR Puram,Apartment,3,2059,3.0,1.0,0.0,Unfurnished,0.0,8.0,Society,8.52,86.87
+Hebbal,Apartment,1,1993,1.0,1.0,1.0,Furnished,0.0,3.0,Society,9.05,61.24
+Yelahanka,Land,2,900,,,,,,,,6.17,58.77
+Whitefield,Banglow,6,1613,,4.0,2.0,Furnished,,,,5.99,211.53
+Rajaji Nagar,Apartment,6,560,4.0,1.0,0.0,Semi-Furnished,0.0,10.0,Simple Apartment,0.66,38.56
+HSR Layout,Land,5,4611,,,,,,,,2.92,367.03
+Whitefield,Banglow,6,1217,,1.0,1.0,Unfurnished,,,,3.26,120.1
+Bannerghatta Road,Land,1,3042,,,,,,,,7.03,235.46
+Koramangala,Banglow,2,1239,,1.0,1.0,Furnished,,,,3.75,127.85
+Bellandur,Land,4,4763,,,,,,,,1.53,327.82
+HSR Layout,Apartment,1,1720,3.0,3.0,2.0,Semi-Furnished,0.0,2.0,Society,8.35,66.23
+Kengeri,Apartment,4,2496,2.0,4.0,1.0,Unfurnished,0.0,13.0,Simple Apartment,7.79,221.93
+Bannerghatta Road,Apartment,2,2160,1.0,1.0,0.0,Semi-Furnished,0.0,18.0,Simple Apartment,2.93,129.51
+Bannerghatta Road,Banglow,3,4129,,2.0,2.0,Furnished,,,,3.58,270.79
+Rajaji Nagar,Land,5,2378,,,,,,,,7.86,130.85
+Indira Nagar,Apartment,5,2195,3.0,4.0,0.0,Semi-Furnished,0.0,7.0,Society,3.68,121.21
+Bannerghatta Road,Banglow,6,2169,,2.0,1.0,Semi-Furnished,,,,9.91,99.02
+Indira Nagar,Banglow,1,1877,,3.0,1.0,Semi-Furnished,,,,4.0,93.0
+Marathahalli,Land,1,4144,,,,,,,,1.1,182.84
+Rajaji Nagar,Apartment,3,1938,3.0,1.0,0.0,Semi-Furnished,0.0,9.0,Society,4.45,82.98
+Sarjapur Road,Land,2,983,,,,,,,,4.95,29.3
+Kanakpura Road,Land,6,2751,,,,,,,,3.27,80.91
+Bannerghatta Road,Land,2,4483,,,,,,,,3.24,182.78
+Bellandur,Apartment,2,1974,4.0,4.0,0.0,Semi-Furnished,0.0,13.0,Simple Apartment,4.85,175.02
+Kanakpura Road,Banglow,1,2577,,1.0,2.0,Furnished,,,,3.89,304.25
+KR Puram,Apartment,2,737,2.0,1.0,1.0,Unfurnished,2.0,8.0,Simple Apartment,3.37,36.48
+Chikkalasandra,Apartment,5,654,4.0,2.0,2.0,Semi-Furnished,0.0,14.0,Society,3.99,61.31
+Marathahalli,Apartment,5,2034,3.0,4.0,0.0,Semi-Furnished,2.0,16.0,Simple Apartment,0.16,186.95
+Uttarahalli,Land,4,4467,,,,,,,,9.62,120.07
+Hoodi,Apartment,4,1934,1.0,2.0,1.0,Unfurnished,0.0,7.0,Society,0.5,102.26
+Hebbal,Apartment,1,2362,4.0,4.0,2.0,Semi-Furnished,0.0,5.0,Simple Apartment,5.75,159.44
+Yelahanka,Banglow,3,3654,,3.0,1.0,Unfurnished,,,,9.29,316.43
+Hoodi,Apartment,6,2472,3.0,2.0,1.0,Semi-Furnished,2.0,20.0,Society,3.99,146.03
+Hebbal,Apartment,4,2421,3.0,4.0,1.0,Unfurnished,2.0,15.0,Society,2.1,223.99
+Bellandur,Banglow,6,2942,,4.0,2.0,Unfurnished,,,,3.8,281.53
+Kengeri,Banglow,6,3720,,2.0,2.0,Unfurnished,,,,5.95,193.33
+Hebbal,Banglow,6,4749,,1.0,0.0,Furnished,,,,7.85,425.06
+Kengeri,Banglow,2,4369,,1.0,2.0,Unfurnished,,,,8.69,343.3
+Hoodi,Banglow,4,3687,,4.0,1.0,Unfurnished,,,,7.32,404.67
+Marathahalli,Land,6,4034,,,,,,,,9.63,143.18
+Electronic City,Apartment,2,2087,2.0,3.0,1.0,Furnished,1.0,17.0,Simple Apartment,1.76,150.52
+Indira Nagar,Land,5,835,,,,,,,,1.29,35.61
+Sarjapur Road,Banglow,3,4091,,1.0,2.0,Furnished,,,,4.34,383.89
+Koramangala,Banglow,3,2485,,3.0,0.0,Furnished,,,,6.06,192.06
+Electronic City,Banglow,3,2048,,1.0,0.0,Semi-Furnished,,,,6.98,260.37
+Electronic City,Land,4,763,,,,,,,,4.57,34.65
+Chikkalasandra,Apartment,5,1361,2.0,1.0,1.0,Unfurnished,2.0,4.0,Society,2.07,122.28
+Koramangala,Land,5,2274,,,,,,,,9.98,165.77
+KR Puram,Apartment,3,2437,3.0,2.0,1.0,Unfurnished,1.0,13.0,Society,6.07,206.01
+Electronic City,Banglow,6,4946,,4.0,1.0,Semi-Furnished,,,,4.82,643.88
+Chikkalasandra,Banglow,5,4817,,4.0,0.0,Furnished,,,,1.21,505.34
+Kanakpura Road,Apartment,1,2469,1.0,1.0,2.0,Semi-Furnished,1.0,12.0,Society,0.79,197.54
+Hebbal,Land,1,1405,,,,,,,,8.73,39.66
+Kengeri,Apartment,1,1279,2.0,2.0,1.0,Semi-Furnished,0.0,11.0,Simple Apartment,0.6,107.64
+JP Nagar,Apartment,5,903,2.0,2.0,2.0,Semi-Furnished,1.0,16.0,Society,9.77,31.61
+Kengeri,Land,6,3204,,,,,,,,8.5,113.68
+HSR Layout,Land,1,4060,,,,,,,,6.06,184.21
+Whitefield,Banglow,5,4168,,2.0,2.0,Unfurnished,,,,6.11,541.92
+Rajaji Nagar,Banglow,6,1810,,1.0,1.0,Unfurnished,,,,8.38,228.46
+Whitefield,Banglow,5,4750,,3.0,2.0,Semi-Furnished,,,,2.58,446.19
+Yelahanka,Banglow,6,3208,,1.0,2.0,Semi-Furnished,,,,9.62,227.36
+Bannerghatta Road,Land,5,1758,,,,,,,,0.18,99.58
+Hebbal,Apartment,3,984,2.0,1.0,2.0,Semi-Furnished,2.0,1.0,Simple Apartment,0.21,51.97
+JP Nagar,Banglow,4,1974,,2.0,2.0,Furnished,,,,2.59,248.27
+Koramangala,Land,3,2671,,,,,,,,9.98,212.16
+Rajaji Nagar,Land,5,3376,,,,,,,,9.97,126.37
+Koramangala,Banglow,3,3141,,3.0,1.0,Semi-Furnished,,,,7.91,314.25
+Kengeri,Apartment,2,2471,2.0,3.0,2.0,Unfurnished,1.0,4.0,Society,4.42,178.65
+Hoodi,Apartment,5,712,2.0,4.0,0.0,Semi-Furnished,1.0,19.0,Society,7.08,68.43
+KR Puram,Banglow,4,1624,,2.0,1.0,Unfurnished,,,,9.9,77.85
+Hoodi,Banglow,4,2191,,1.0,1.0,Unfurnished,,,,0.98,181.61
+Kanakpura Road,Banglow,6,4917,,1.0,2.0,Unfurnished,,,,1.36,358.11
+Indira Nagar,Apartment,5,1759,1.0,4.0,1.0,Semi-Furnished,0.0,19.0,Simple Apartment,4.32,114.55
+Rajaji Nagar,Apartment,5,2437,2.0,2.0,0.0,Unfurnished,1.0,9.0,Society,8.37,211.67
+Bannerghatta Road,Land,3,870,,,,,,,,0.31,34.11
+Kengeri,Apartment,1,936,3.0,1.0,2.0,Furnished,0.0,18.0,Society,8.64,86.32
+Hoodi,Land,1,549,,,,,,,,9.1,15.12
+Whitefield,Banglow,1,4608,,4.0,2.0,Furnished,,,,2.77,621.03
+Kanakpura Road,Apartment,6,2212,2.0,3.0,1.0,Semi-Furnished,1.0,3.0,Society,5.2,135.97
+Kanakpura Road,Banglow,3,4751,,3.0,2.0,Semi-Furnished,,,,0.17,522.72
+Koramangala,Apartment,2,2005,1.0,4.0,1.0,Unfurnished,0.0,10.0,Simple Apartment,5.23,144.54
+KR Puram,Land,6,4604,,,,,,,,8.01,347.48
+Chikkalasandra,Land,5,3168,,,,,,,,3.87,111.77
+Bannerghatta Road,Banglow,2,1539,,4.0,2.0,Unfurnished,,,,0.55,173.73
+Marathahalli,Banglow,5,2269,,3.0,1.0,Furnished,,,,9.81,131.53
+Chikkalasandra,Apartment,4,2023,4.0,3.0,0.0,Semi-Furnished,0.0,14.0,Society,0.44,94.94
+Hebbal,Land,4,2423,,,,,,,,4.5,190.3
+KR Puram,Banglow,2,4663,,3.0,2.0,Unfurnished,,,,3.56,379.0
+JP Nagar,Apartment,6,1338,4.0,2.0,2.0,Furnished,1.0,15.0,Society,9.1,76.56
+KR Puram,Land,6,1852,,,,,,,,1.25,130.24
+Sarjapur Road,Land,5,1567,,,,,,,,1.04,117.65
+Bellandur,Banglow,3,3447,,1.0,1.0,Unfurnished,,,,0.7,489.79
+Indira Nagar,Apartment,5,1369,2.0,3.0,0.0,Furnished,2.0,5.0,Simple Apartment,2.35,58.31
+HSR Layout,Apartment,1,1666,4.0,4.0,0.0,Furnished,2.0,20.0,Society,4.1,71.93
+KR Puram,Apartment,4,1247,3.0,3.0,2.0,Furnished,1.0,7.0,Society,5.04,44.02
+HSR Layout,Apartment,5,1787,1.0,3.0,1.0,Furnished,1.0,13.0,Society,1.8,140.81
+Yelahanka,Land,6,1459,,,,,,,,1.2,46.52
+Hebbal,Land,6,1770,,,,,,,,9.29,68.41
+HSR Layout,Banglow,4,2315,,1.0,0.0,Furnished,,,,5.8,233.12
+Sarjapur Road,Banglow,5,1677,,4.0,2.0,Unfurnished,,,,2.69,234.2
+Marathahalli,Land,6,1269,,,,,,,,1.65,40.33
+HSR Layout,Land,6,4028,,,,,,,,8.94,146.51
+Chikkalasandra,Land,5,815,,,,,,,,9.95,31.54
+Chikkalasandra,Banglow,6,2476,,2.0,0.0,Semi-Furnished,,,,8.29,289.94
+Uttarahalli,Land,6,3962,,,,,,,,0.56,239.75
+KR Puram,Banglow,4,3509,,4.0,0.0,Semi-Furnished,,,,6.14,375.19
+Electronic City,Land,2,4265,,,,,,,,4.5,174.91
+Bellandur,Apartment,6,1427,4.0,4.0,0.0,Unfurnished,1.0,12.0,Society,5.95,82.94
+Rajaji Nagar,Land,6,2986,,,,,,,,1.21,102.92
+Bannerghatta Road,Land,5,1875,,,,,,,,6.47,116.34
+KR Puram,Land,2,1811,,,,,,,,7.43,84.1
+Whitefield,Land,3,1502,,,,,,,,8.17,112.31
+Rajaji Nagar,Banglow,5,3412,,1.0,1.0,Unfurnished,,,,2.53,286.95
+Bellandur,Land,6,3525,,,,,,,,7.98,218.72
+Rajaji Nagar,Land,2,1033,,,,,,,,8.82,36.57
+Yelahanka,Apartment,3,1978,4.0,3.0,0.0,Semi-Furnished,2.0,8.0,Simple Apartment,5.95,145.67
+Kengeri,Banglow,3,3821,,3.0,2.0,Unfurnished,,,,4.97,248.33
+Yelahanka,Banglow,5,4153,,3.0,1.0,Furnished,,,,5.14,402.57
+Electronic City,Apartment,5,1437,3.0,4.0,1.0,Unfurnished,2.0,10.0,Simple Apartment,6.68,106.14
+Whitefield,Apartment,1,2281,4.0,2.0,1.0,Unfurnished,2.0,15.0,Simple Apartment,1.43,187.03
+JP Nagar,Apartment,3,1102,1.0,2.0,2.0,Unfurnished,1.0,11.0,Society,3.75,64.66
+Sarjapur Road,Banglow,6,4278,,1.0,1.0,Furnished,,,,6.27,352.11
+Electronic City,Apartment,4,1014,2.0,4.0,0.0,Semi-Furnished,1.0,18.0,Simple Apartment,6.48,51.34
+Uttarahalli,Banglow,3,4681,,3.0,2.0,Furnished,,,,2.13,593.42
+HSR Layout,Banglow,5,1602,,2.0,1.0,Semi-Furnished,,,,1.4,216.56
+Kengeri,Land,2,4146,,,,,,,,9.81,319.63
+Kanakpura Road,Land,2,1040,,,,,,,,2.47,71.42
+Chikkalasandra,Apartment,2,1074,2.0,2.0,0.0,Unfurnished,1.0,14.0,Simple Apartment,8.47,63.06
+Sarjapur Road,Banglow,1,2180,,2.0,1.0,Furnished,,,,3.73,120.57
+JP Nagar,Banglow,4,3258,,3.0,2.0,Unfurnished,,,,2.98,158.16
+Uttarahalli,Banglow,3,3534,,1.0,2.0,Furnished,,,,2.7,159.69
+Chikkalasandra,Apartment,5,1257,1.0,2.0,1.0,Semi-Furnished,1.0,18.0,Simple Apartment,5.68,67.22
+Chikkalasandra,Banglow,1,1379,,2.0,0.0,Furnished,,,,1.24,72.63
+Chikkalasandra,Apartment,2,1271,1.0,1.0,0.0,Unfurnished,2.0,19.0,Society,0.93,105.57
+Koramangala,Land,2,2136,,,,,,,,8.28,75.84
+Uttarahalli,Apartment,1,1668,3.0,2.0,2.0,Unfurnished,1.0,9.0,Society,4.41,85.65
+Indira Nagar,Banglow,3,3152,,1.0,0.0,Furnished,,,,6.14,240.84
+Bellandur,Banglow,5,3590,,2.0,2.0,Semi-Furnished,,,,9.82,202.27
+Rajaji Nagar,Banglow,3,1569,,2.0,0.0,Furnished,,,,0.29,149.65
+Marathahalli,Banglow,3,2223,,1.0,0.0,Unfurnished,,,,2.72,329.14
+Yelahanka,Land,4,725,,,,,,,,9.43,45.16
+Bannerghatta Road,Land,3,3126,,,,,,,,9.53,241.06
+JP Nagar,Banglow,2,2859,,1.0,0.0,Semi-Furnished,,,,5.65,392.03
+Sarjapur Road,Apartment,4,2241,4.0,4.0,2.0,Furnished,0.0,6.0,Society,3.36,178.02
+KR Puram,Apartment,4,2474,1.0,3.0,2.0,Unfurnished,2.0,12.0,Simple Apartment,8.2,197.48
+Hoodi,Land,2,1810,,,,,,,,1.03,141.34
+Hoodi,Land,5,2058,,,,,,,,3.43,121.33
+Kanakpura Road,Banglow,4,1230,,3.0,1.0,Semi-Furnished,,,,0.99,160.76
+Bellandur,Land,4,4011,,,,,,,,8.11,276.35
+Bellandur,Land,3,3736,,,,,,,,2.59,135.03
+HSR Layout,Apartment,4,1649,2.0,2.0,0.0,Semi-Furnished,1.0,16.0,Society,6.14,58.48
+Bellandur,Banglow,3,4336,,4.0,2.0,Unfurnished,,,,6.42,356.58
+KR Puram,Apartment,6,1541,3.0,1.0,1.0,Furnished,0.0,9.0,Society,2.25,95.19
+KR Puram,Apartment,2,1225,3.0,2.0,2.0,Unfurnished,1.0,12.0,Simple Apartment,2.93,121.38
+Yelahanka,Banglow,6,1587,,1.0,0.0,Unfurnished,,,,1.38,175.24
+Hoodi,Apartment,6,1000,3.0,4.0,0.0,Semi-Furnished,2.0,17.0,Society,9.66,51.41
+Bannerghatta Road,Land,1,1297,,,,,,,,3.88,41.23
+Hoodi,Apartment,5,1586,1.0,2.0,0.0,Semi-Furnished,0.0,3.0,Society,6.51,81.4
+KR Puram,Banglow,2,2755,,4.0,0.0,Furnished,,,,8.86,320.89
+Yelahanka,Land,4,1480,,,,,,,,1.92,47.22
+Yelahanka,Apartment,6,1745,1.0,1.0,1.0,Semi-Furnished,0.0,16.0,Simple Apartment,7.09,113.64
+Marathahalli,Apartment,2,1044,4.0,4.0,1.0,Semi-Furnished,1.0,8.0,Simple Apartment,8.67,58.67
+Whitefield,Land,2,1669,,,,,,,,6.91,89.92
+Rajaji Nagar,Banglow,5,2743,,2.0,0.0,Unfurnished,,,,4.73,150.19
+Electronic City,Land,3,4791,,,,,,,,7.99,258.68
+HSR Layout,Banglow,5,2792,,1.0,1.0,Furnished,,,,2.46,197.03
+KR Puram,Land,3,1341,,,,,,,,2.01,76.01
+Kanakpura Road,Apartment,6,657,3.0,1.0,0.0,Unfurnished,0.0,9.0,Simple Apartment,0.73,58.05
+Kanakpura Road,Land,4,3055,,,,,,,,2.93,96.05
+Whitefield,Land,5,3634,,,,,,,,3.75,286.05
+Indira Nagar,Land,2,3029,,,,,,,,3.53,149.76
+Indira Nagar,Land,2,4802,,,,,,,,9.25,133.81
+JP Nagar,Land,6,2904,,,,,,,,7.64,194.75
+Sarjapur Road,Banglow,2,2520,,2.0,0.0,Furnished,,,,8.77,290.62
+JP Nagar,Banglow,6,2940,,3.0,1.0,Unfurnished,,,,6.47,284.99
+KR Puram,Banglow,3,4663,,1.0,2.0,Semi-Furnished,,,,0.72,219.7
+Kanakpura Road,Banglow,3,3576,,4.0,1.0,Unfurnished,,,,6.69,415.15
+Koramangala,Land,5,3900,,,,,,,,4.13,308.12
+Marathahalli,Banglow,4,2456,,4.0,0.0,Unfurnished,,,,8.54,365.17
+Marathahalli,Apartment,5,800,4.0,3.0,0.0,Unfurnished,2.0,5.0,Society,6.4,33.91
+Marathahalli,Banglow,6,4179,,4.0,2.0,Furnished,,,,7.62,486.84
+Sarjapur Road,Apartment,1,1047,1.0,3.0,1.0,Semi-Furnished,1.0,11.0,Simple Apartment,1.06,52.96
+Kengeri,Banglow,2,2139,,3.0,1.0,Semi-Furnished,,,,0.67,314.8
+Uttarahalli,Apartment,5,1123,2.0,3.0,2.0,Semi-Furnished,0.0,18.0,Society,9.37,47.93
+Hoodi,Banglow,1,4212,,1.0,1.0,Semi-Furnished,,,,9.74,328.5
+Kengeri,Banglow,2,2881,,1.0,2.0,Furnished,,,,7.7,305.77
+HSR Layout,Banglow,5,2053,,2.0,2.0,Semi-Furnished,,,,2.37,189.46
+Whitefield,Land,2,2912,,,,,,,,5.24,178.5
+Marathahalli,Banglow,4,2906,,2.0,2.0,Furnished,,,,0.64,223.99
+Whitefield,Apartment,6,593,2.0,3.0,1.0,Furnished,1.0,6.0,Society,3.34,48.66
+Whitefield,Land,5,2523,,,,,,,,4.06,164.8
+Uttarahalli,Land,5,4895,,,,,,,,0.15,380.87
+JP Nagar,Land,2,1606,,,,,,,,9.42,124.54
+Rajaji Nagar,Banglow,5,1889,,1.0,1.0,Unfurnished,,,,7.4,139.76
+Rajaji Nagar,Land,2,2202,,,,,,,,3.64,69.07
+Chikkalasandra,Banglow,2,1690,,3.0,2.0,Furnished,,,,4.47,205.35
+Chikkalasandra,Banglow,5,1691,,2.0,0.0,Furnished,,,,7.18,156.03
+Whitefield,Land,5,1006,,,,,,,,2.27,43.6
+Whitefield,Banglow,4,4879,,1.0,1.0,Furnished,,,,6.04,384.84
+Chikkalasandra,Banglow,1,4975,,2.0,0.0,Furnished,,,,4.66,224.65
+HSR Layout,Apartment,6,1487,1.0,2.0,2.0,Semi-Furnished,2.0,13.0,Society,1.54,127.68
+Rajaji Nagar,Land,3,2559,,,,,,,,8.99,194.66
+Chikkalasandra,Apartment,2,1934,2.0,2.0,0.0,Furnished,0.0,11.0,Society,4.04,120.54
+Electronic City,Land,4,1953,,,,,,,,9.44,63.97
+Bannerghatta Road,Apartment,2,1037,4.0,1.0,2.0,Unfurnished,1.0,7.0,Society,7.86,37.13
+Chikkalasandra,Banglow,1,2110,,1.0,2.0,Furnished,,,,7.62,107.89
+Bellandur,Land,6,761,,,,,,,,0.7,50.48
+Hebbal,Apartment,3,2048,2.0,4.0,1.0,Semi-Furnished,1.0,11.0,Society,1.56,96.8
+Indira Nagar,Land,2,4083,,,,,,,,8.3,314.88
+Bannerghatta Road,Banglow,3,1789,,2.0,0.0,Unfurnished,,,,6.36,104.55
+Uttarahalli,Land,3,3729,,,,,,,,4.31,185.77
+Electronic City,Land,4,4905,,,,,,,,4.7,129.56
+HSR Layout,Apartment,2,2164,2.0,3.0,0.0,Unfurnished,0.0,8.0,Society,5.74,79.38
+Kengeri,Apartment,4,2122,1.0,3.0,1.0,Furnished,1.0,14.0,Simple Apartment,9.0,93.21
+Electronic City,Banglow,1,2271,,4.0,0.0,Semi-Furnished,,,,6.71,111.17
+Chikkalasandra,Apartment,5,1430,4.0,4.0,2.0,Unfurnished,1.0,3.0,Simple Apartment,5.8,61.1
+Rajaji Nagar,Land,2,1196,,,,,,,,3.39,45.58
+Koramangala,Banglow,5,1416,,4.0,1.0,Semi-Furnished,,,,7.77,76.62
+Whitefield,Land,4,3408,,,,,,,,9.07,133.43
+Marathahalli,Banglow,5,1920,,1.0,1.0,Unfurnished,,,,0.98,280.92
+Rajaji Nagar,Banglow,2,4281,,2.0,1.0,Semi-Furnished,,,,8.73,414.42
+Electronic City,Apartment,3,2091,1.0,3.0,0.0,Furnished,2.0,6.0,Simple Apartment,3.79,121.16
+Kanakpura Road,Land,1,4084,,,,,,,,1.15,232.35
+Whitefield,Land,2,4600,,,,,,,,3.53,250.09
+JP Nagar,Land,3,2349,,,,,,,,6.26,87.05
+Hebbal,Apartment,2,1459,3.0,1.0,1.0,Unfurnished,1.0,20.0,Simple Apartment,9.04,96.52
+Chikkalasandra,Land,5,1581,,,,,,,,7.33,48.83
+Chikkalasandra,Banglow,1,2558,,4.0,0.0,Unfurnished,,,,3.47,352.74
+Uttarahalli,Land,6,3327,,,,,,,,0.38,256.17
+Electronic City,Banglow,6,1344,,4.0,0.0,Unfurnished,,,,7.51,108.66
+Rajaji Nagar,Apartment,5,1132,2.0,3.0,2.0,Furnished,0.0,10.0,Society,0.34,63.59
+Kengeri,Apartment,6,2458,1.0,1.0,1.0,Unfurnished,2.0,11.0,Simple Apartment,1.04,108.82
+Hebbal,Land,2,698,,,,,,,,0.39,22.63
+Kengeri,Apartment,3,621,3.0,3.0,2.0,Unfurnished,1.0,12.0,Society,8.49,24.99
+Sarjapur Road,Land,2,3639,,,,,,,,2.92,204.19
+Indira Nagar,Land,2,4608,,,,,,,,5.04,161.28
+Kanakpura Road,Banglow,5,2837,,1.0,1.0,Furnished,,,,7.2,196.2
+Indira Nagar,Land,1,3564,,,,,,,,2.98,99.26
+Whitefield,Banglow,2,3360,,3.0,0.0,Semi-Furnished,,,,1.34,434.44
+Hoodi,Land,1,4875,,,,,,,,1.58,270.42
+JP Nagar,Banglow,3,3784,,2.0,1.0,Semi-Furnished,,,,6.24,461.98
+KR Puram,Banglow,6,1754,,2.0,0.0,Unfurnished,,,,2.32,218.89
+KR Puram,Land,6,3929,,,,,,,,4.72,151.6
+Kanakpura Road,Land,3,1153,,,,,,,,7.23,61.21
+Uttarahalli,Banglow,3,3860,,4.0,2.0,Furnished,,,,9.85,498.49
+Whitefield,Apartment,4,2177,4.0,3.0,1.0,Unfurnished,2.0,16.0,Society,7.02,141.7
+Rajaji Nagar,Land,3,3477,,,,,,,,2.12,216.67
+Whitefield,Apartment,1,2178,2.0,2.0,0.0,Unfurnished,2.0,15.0,Simple Apartment,2.51,187.74
+Koramangala,Land,5,1948,,,,,,,,3.49,103.88
+Kanakpura Road,Banglow,2,1303,,3.0,0.0,Semi-Furnished,,,,5.02,92.16
+Marathahalli,Land,2,1664,,,,,,,,1.28,66.76
+KR Puram,Banglow,4,1463,,3.0,0.0,Furnished,,,,1.36,159.53
+Hoodi,Banglow,5,3737,,1.0,1.0,Semi-Furnished,,,,0.67,175.62
+Uttarahalli,Apartment,3,2365,4.0,1.0,0.0,Furnished,1.0,8.0,Simple Apartment,7.44,112.11
+HSR Layout,Land,2,1905,,,,,,,,3.05,80.28
+Kengeri,Banglow,2,4470,,4.0,0.0,Furnished,,,,8.91,371.56
+Hoodi,Apartment,3,1394,2.0,2.0,2.0,Semi-Furnished,1.0,8.0,Society,1.2,92.09
+Sarjapur Road,Banglow,5,2835,,2.0,1.0,Semi-Furnished,,,,4.48,323.22
+Electronic City,Land,2,3633,,,,,,,,6.48,268.13
+JP Nagar,Banglow,5,2430,,3.0,2.0,Furnished,,,,6.36,147.72
+Whitefield,Apartment,1,1122,1.0,1.0,2.0,Unfurnished,0.0,14.0,Society,8.42,66.78
+Whitefield,Apartment,6,1478,4.0,1.0,2.0,Semi-Furnished,2.0,18.0,Society,0.98,87.05
+Hebbal,Banglow,2,1470,,1.0,2.0,Unfurnished,,,,6.35,214.52
+Marathahalli,Apartment,1,1153,2.0,3.0,1.0,Furnished,2.0,2.0,Society,8.0,97.92
+Koramangala,Banglow,4,1903,,1.0,2.0,Unfurnished,,,,3.68,147.44
+Koramangala,Apartment,4,2293,3.0,4.0,1.0,Semi-Furnished,2.0,15.0,Simple Apartment,1.05,131.0
+Yelahanka,Apartment,5,2139,1.0,2.0,1.0,Unfurnished,1.0,5.0,Simple Apartment,1.67,187.66
+Marathahalli,Apartment,6,1223,1.0,4.0,1.0,Unfurnished,1.0,7.0,Simple Apartment,6.1,121.28
+Chikkalasandra,Banglow,1,1790,,1.0,2.0,Semi-Furnished,,,,3.22,260.49
+Kengeri,Banglow,2,2541,,2.0,1.0,Semi-Furnished,,,,7.37,303.92
+Kanakpura Road,Banglow,5,4891,,4.0,2.0,Semi-Furnished,,,,2.45,585.52
+Sarjapur Road,Apartment,2,1681,1.0,4.0,0.0,Furnished,2.0,18.0,Society,6.28,159.77
+Electronic City,Land,1,3149,,,,,,,,1.76,107.38
+Kengeri,Land,3,4795,,,,,,,,2.02,279.21
+Kengeri,Apartment,6,1759,4.0,3.0,2.0,Furnished,1.0,16.0,Society,9.55,78.7
+Kanakpura Road,Banglow,2,3067,,4.0,0.0,Semi-Furnished,,,,1.82,139.04
+Hebbal,Banglow,6,2473,,2.0,0.0,Semi-Furnished,,,,6.17,157.02
+Electronic City,Land,6,4422,,,,,,,,4.17,251.62
+Electronic City,Banglow,6,1814,,4.0,1.0,Furnished,,,,0.89,137.57
+Hebbal,Land,2,4643,,,,,,,,3.77,140.34
+Rajaji Nagar,Apartment,1,812,3.0,3.0,0.0,Unfurnished,0.0,12.0,Society,5.43,42.5
+Kanakpura Road,Banglow,6,1803,,4.0,2.0,Unfurnished,,,,0.23,260.36
+Hoodi,Apartment,5,1732,2.0,4.0,1.0,Furnished,1.0,9.0,Society,7.19,94.24
+Electronic City,Apartment,2,2151,2.0,3.0,1.0,Semi-Furnished,0.0,18.0,Society,0.95,100.64
+Whitefield,Banglow,1,3370,,1.0,1.0,Furnished,,,,0.26,154.7
+Indira Nagar,Land,1,2347,,,,,,,,1.59,109.96
+Yelahanka,Banglow,2,4622,,2.0,0.0,Unfurnished,,,,9.38,440.51
+Kengeri,Land,3,2926,,,,,,,,7.22,201.93
+Electronic City,Banglow,3,2504,,1.0,0.0,Furnished,,,,5.11,339.04
+HSR Layout,Land,1,1795,,,,,,,,5.75,70.48
+JP Nagar,Land,2,3612,,,,,,,,7.87,118.87
+Bellandur,Banglow,4,3599,,1.0,1.0,Unfurnished,,,,4.84,168.77
+Marathahalli,Land,1,3975,,,,,,,,1.13,185.04
+JP Nagar,Banglow,6,2373,,3.0,0.0,Unfurnished,,,,7.97,233.54
+Hebbal,Apartment,1,1932,3.0,1.0,1.0,Unfurnished,2.0,9.0,Society,9.26,149.11
+Hebbal,Banglow,5,2492,,1.0,2.0,Semi-Furnished,,,,2.5,318.43
+KR Puram,Apartment,1,1859,3.0,1.0,1.0,Furnished,0.0,14.0,Simple Apartment,1.65,109.66
+KR Puram,Apartment,2,1941,4.0,2.0,2.0,Semi-Furnished,1.0,6.0,Simple Apartment,4.08,88.7
+Hebbal,Apartment,4,814,1.0,3.0,2.0,Semi-Furnished,1.0,17.0,Simple Apartment,7.23,77.38
+Chikkalasandra,Land,3,2209,,,,,,,,2.67,142.25
+Kengeri,Banglow,1,2198,,1.0,2.0,Unfurnished,,,,0.79,240.73
+Rajaji Nagar,Land,5,3621,,,,,,,,1.38,200.51
+Kengeri,Apartment,3,1111,3.0,2.0,1.0,Semi-Furnished,2.0,11.0,Simple Apartment,8.96,64.96
+Yelahanka,Land,3,3975,,,,,,,,4.76,203.68
+Electronic City,Land,3,1298,,,,,,,,2.17,65.54
+JP Nagar,Banglow,1,4667,,4.0,2.0,Furnished,,,,3.75,688.72
+Yelahanka,Apartment,3,1742,4.0,2.0,1.0,Semi-Furnished,1.0,10.0,Simple Apartment,7.58,173.73
+Indira Nagar,Apartment,2,989,1.0,1.0,0.0,Semi-Furnished,2.0,18.0,Society,1.19,72.43
+Uttarahalli,Apartment,4,765,2.0,4.0,2.0,Semi-Furnished,2.0,16.0,Society,1.85,29.96
+Kengeri,Banglow,1,1987,,3.0,1.0,Semi-Furnished,,,,9.86,112.23
+Chikkalasandra,Banglow,4,2842,,3.0,2.0,Semi-Furnished,,,,2.27,271.09
+Bannerghatta Road,Apartment,5,613,2.0,2.0,2.0,Furnished,2.0,3.0,Society,3.96,34.85
+Sarjapur Road,Apartment,3,2407,2.0,4.0,1.0,Furnished,0.0,2.0,Society,0.29,82.87
+Sarjapur Road,Land,5,2731,,,,,,,,7.31,122.85
+Koramangala,Banglow,5,2922,,2.0,0.0,Unfurnished,,,,6.33,229.99
+Kanakpura Road,Land,6,3373,,,,,,,,3.47,229.3
+Kengeri,Apartment,2,548,2.0,3.0,0.0,Unfurnished,1.0,8.0,Simple Apartment,4.96,51.31
+Bannerghatta Road,Banglow,1,1447,,4.0,0.0,Semi-Furnished,,,,2.54,78.61
+Uttarahalli,Banglow,3,2317,,4.0,2.0,Semi-Furnished,,,,0.43,246.36
+Koramangala,Apartment,5,2362,3.0,3.0,0.0,Furnished,0.0,4.0,Society,2.23,178.29
+Electronic City,Banglow,6,4630,,2.0,1.0,Furnished,,,,8.71,285.98
+Marathahalli,Land,2,3118,,,,,,,,0.32,191.34
+Yelahanka,Banglow,2,3806,,3.0,0.0,Unfurnished,,,,6.09,535.67
+Hoodi,Land,5,838,,,,,,,,1.94,39.72
+HSR Layout,Banglow,6,1609,,4.0,1.0,Semi-Furnished,,,,4.48,78.26
+Sarjapur Road,Land,5,1094,,,,,,,,9.47,66.03
+Uttarahalli,Apartment,3,1707,2.0,3.0,1.0,Unfurnished,1.0,20.0,Society,5.93,141.2
+JP Nagar,Apartment,2,955,4.0,4.0,1.0,Unfurnished,0.0,3.0,Society,3.92,29.94
+KR Puram,Banglow,1,2893,,3.0,2.0,Semi-Furnished,,,,8.21,199.24
+Rajaji Nagar,Apartment,1,1099,2.0,2.0,0.0,Unfurnished,1.0,12.0,Society,9.43,54.21
+KR Puram,Apartment,3,2209,2.0,2.0,0.0,Semi-Furnished,2.0,12.0,Society,0.78,176.8
+Indira Nagar,Apartment,2,2360,2.0,4.0,1.0,Semi-Furnished,0.0,10.0,Society,5.48,222.84
+Whitefield,Banglow,6,2906,,4.0,0.0,Semi-Furnished,,,,6.42,250.4
+Koramangala,Apartment,1,2055,4.0,2.0,2.0,Semi-Furnished,2.0,6.0,Simple Apartment,1.21,81.32
+Rajaji Nagar,Apartment,6,828,1.0,3.0,2.0,Semi-Furnished,1.0,11.0,Society,7.4,36.48
+Uttarahalli,Banglow,4,3995,,1.0,1.0,Semi-Furnished,,,,8.6,564.66
+Yelahanka,Apartment,6,1762,3.0,4.0,2.0,Unfurnished,2.0,12.0,Society,4.68,162.45
+Whitefield,Land,2,4038,,,,,,,,4.85,223.36
+Bannerghatta Road,Banglow,1,2321,,1.0,0.0,Semi-Furnished,,,,1.29,314.18
+Koramangala,Land,4,4929,,,,,,,,1.96,237.11
+Uttarahalli,Banglow,6,3468,,3.0,1.0,Unfurnished,,,,6.23,431.3
+KR Puram,Banglow,4,3491,,3.0,0.0,Furnished,,,,1.84,308.08
+Sarjapur Road,Banglow,4,1221,,1.0,1.0,Furnished,,,,2.24,78.41
+Hebbal,Banglow,3,1583,,3.0,0.0,Furnished,,,,8.36,76.27
+Sarjapur Road,Land,1,3671,,,,,,,,2.98,264.16
+Koramangala,Land,5,2063,,,,,,,,2.44,144.28
+Whitefield,Land,3,2211,,,,,,,,4.47,87.91
+Indira Nagar,Apartment,2,816,4.0,2.0,1.0,Unfurnished,0.0,20.0,Simple Apartment,3.92,44.87
+Electronic City,Apartment,4,870,1.0,2.0,2.0,Semi-Furnished,1.0,14.0,Society,9.46,28.48
+Whitefield,Banglow,2,1714,,2.0,0.0,Furnished,,,,2.82,150.01
+Marathahalli,Land,5,2452,,,,,,,,9.83,95.89
+Hebbal,Apartment,3,1637,4.0,3.0,0.0,Semi-Furnished,1.0,12.0,Simple Apartment,9.86,108.91
+Hoodi,Land,3,4721,,,,,,,,9.08,238.58
+HSR Layout,Banglow,5,2672,,4.0,0.0,Furnished,,,,4.1,348.95
+Kengeri,Apartment,5,1059,2.0,2.0,2.0,Furnished,0.0,18.0,Society,5.54,63.45
+Electronic City,Banglow,1,3007,,3.0,0.0,Unfurnished,,,,1.54,216.74
+Yelahanka,Land,6,3133,,,,,,,,9.4,77.29
+Yelahanka,Land,5,4011,,,,,,,,0.73,131.53
+Kengeri,Land,2,841,,,,,,,,7.22,65.61
+Kanakpura Road,Banglow,6,2751,,4.0,0.0,Unfurnished,,,,6.08,391.36
+Chikkalasandra,Land,6,4732,,,,,,,,3.1,360.16
+Uttarahalli,Apartment,6,1992,3.0,3.0,0.0,Unfurnished,0.0,12.0,Society,3.39,137.32
+KR Puram,Apartment,4,523,1.0,4.0,1.0,Unfurnished,2.0,9.0,Simple Apartment,3.62,33.62
+Hoodi,Land,5,3716,,,,,,,,8.16,225.78
+JP Nagar,Apartment,2,871,1.0,3.0,2.0,Furnished,0.0,2.0,Simple Apartment,1.83,67.11
+Bannerghatta Road,Banglow,6,3868,,3.0,0.0,Semi-Furnished,,,,2.43,245.24
+Hebbal,Apartment,6,1513,3.0,2.0,0.0,Semi-Furnished,2.0,3.0,Society,7.13,56.58
+Hoodi,Land,3,4646,,,,,,,,2.18,332.23
+Sarjapur Road,Land,4,4365,,,,,,,,0.54,309.57
+Indira Nagar,Apartment,6,1339,1.0,3.0,1.0,Unfurnished,2.0,1.0,Society,2.54,41.85
+Indira Nagar,Land,3,2988,,,,,,,,2.85,207.92
+Kanakpura Road,Apartment,2,642,3.0,1.0,1.0,Unfurnished,0.0,9.0,Simple Apartment,6.2,21.78
+Sarjapur Road,Apartment,3,1640,4.0,1.0,0.0,Semi-Furnished,2.0,11.0,Society,7.9,133.37
+Marathahalli,Banglow,1,2467,,4.0,0.0,Furnished,,,,4.21,201.4
+HSR Layout,Land,4,2931,,,,,,,,1.92,83.05
+Marathahalli,Banglow,3,1965,,1.0,0.0,Furnished,,,,3.32,161.5
+Bannerghatta Road,Apartment,6,902,2.0,4.0,0.0,Semi-Furnished,2.0,11.0,Society,0.78,39.15
+Yelahanka,Land,5,1320,,,,,,,,7.29,52.75
+Yelahanka,Land,2,1635,,,,,,,,4.01,79.89
+Rajaji Nagar,Banglow,3,4106,,3.0,0.0,Unfurnished,,,,1.78,231.02
+HSR Layout,Apartment,6,1242,3.0,2.0,2.0,Unfurnished,0.0,7.0,Simple Apartment,6.07,92.74
+JP Nagar,Apartment,3,1879,4.0,4.0,0.0,Furnished,0.0,3.0,Society,1.05,157.3
+Koramangala,Land,2,3418,,,,,,,,4.22,150.63
+Uttarahalli,Banglow,3,1824,,3.0,2.0,Unfurnished,,,,7.94,235.57
+Whitefield,Land,4,1738,,,,,,,,0.91,67.12
+Electronic City,Banglow,5,3831,,1.0,2.0,Semi-Furnished,,,,8.17,497.35
+JP Nagar,Land,6,2312,,,,,,,,0.42,168.49
+Hebbal,Banglow,5,4602,,2.0,2.0,Furnished,,,,4.59,351.62
+Sarjapur Road,Apartment,6,1919,2.0,3.0,1.0,Unfurnished,1.0,10.0,Simple Apartment,2.28,151.3
+Rajaji Nagar,Apartment,5,1157,4.0,4.0,1.0,Semi-Furnished,0.0,2.0,Simple Apartment,7.07,93.7
+Yelahanka,Land,1,3648,,,,,,,,8.63,115.45
+Hebbal,Banglow,1,3509,,2.0,0.0,Unfurnished,,,,1.81,159.76
+Kanakpura Road,Banglow,1,3746,,1.0,2.0,Unfurnished,,,,4.59,246.84
+JP Nagar,Apartment,4,1915,2.0,2.0,0.0,Furnished,2.0,3.0,Simple Apartment,4.0,89.59
+KR Puram,Land,2,991,,,,,,,,7.85,30.63
+Marathahalli,Banglow,2,1747,,4.0,0.0,Unfurnished,,,,8.64,242.9
+Indira Nagar,Apartment,4,2058,1.0,3.0,2.0,Semi-Furnished,2.0,6.0,Society,6.17,123.63
+Uttarahalli,Banglow,4,2574,,3.0,0.0,Semi-Furnished,,,,0.7,116.62
+Chikkalasandra,Apartment,3,1420,3.0,1.0,0.0,Semi-Furnished,2.0,17.0,Simple Apartment,0.34,53.52
+Uttarahalli,Banglow,4,1603,,3.0,1.0,Unfurnished,,,,3.43,133.86
+Hoodi,Land,1,1212,,,,,,,,3.52,81.62
+Kengeri,Apartment,5,2126,3.0,2.0,1.0,Semi-Furnished,0.0,4.0,Simple Apartment,4.64,189.73
+Hoodi,Land,5,3867,,,,,,,,0.88,179.87
+Bellandur,Land,2,1030,,,,,,,,6.68,69.23
+Whitefield,Banglow,6,4833,,1.0,0.0,Semi-Furnished,,,,7.34,463.15
+Koramangala,Banglow,3,4946,,3.0,0.0,Unfurnished,,,,7.03,472.41
+Marathahalli,Apartment,4,2042,2.0,2.0,1.0,Semi-Furnished,0.0,6.0,Society,9.53,145.4
+Bellandur,Apartment,6,2473,3.0,4.0,0.0,Furnished,1.0,5.0,Simple Apartment,5.03,130.25
+Koramangala,Banglow,2,2822,,1.0,2.0,Semi-Furnished,,,,8.39,216.47
+Hebbal,Banglow,5,1244,,3.0,1.0,Furnished,,,,0.61,118.42
+JP Nagar,Apartment,6,899,2.0,3.0,0.0,Unfurnished,2.0,14.0,Simple Apartment,8.69,88.21
+Yelahanka,Land,4,889,,,,,,,,7.68,34.96
+Koramangala,Banglow,4,3426,,4.0,0.0,Furnished,,,,2.28,174.92
+KR Puram,Apartment,1,609,3.0,2.0,1.0,Unfurnished,2.0,2.0,Simple Apartment,5.32,52.48
+Yelahanka,Land,6,3940,,,,,,,,5.92,249.57
+Uttarahalli,Banglow,3,4762,,1.0,1.0,Semi-Furnished,,,,4.46,423.17
+Indira Nagar,Banglow,1,1531,,4.0,0.0,Semi-Furnished,,,,5.79,88.41
+Hebbal,Land,1,4436,,,,,,,,1.97,243.18
+Koramangala,Land,2,3614,,,,,,,,8.08,284.0
+Indira Nagar,Banglow,6,2871,,4.0,0.0,Furnished,,,,3.61,144.55
+Kanakpura Road,Apartment,6,512,1.0,2.0,1.0,Semi-Furnished,2.0,17.0,Society,3.19,50.88
+Hebbal,Land,2,4897,,,,,,,,6.03,136.19
+KR Puram,Banglow,4,1779,,2.0,1.0,Unfurnished,,,,0.43,164.49
+Bellandur,Banglow,6,2477,,1.0,1.0,Furnished,,,,4.9,277.11
+Yelahanka,Apartment,3,2275,3.0,2.0,1.0,Furnished,0.0,14.0,Simple Apartment,9.22,205.68
+Koramangala,Apartment,3,704,3.0,1.0,0.0,Furnished,0.0,2.0,Simple Apartment,3.34,46.01
+JP Nagar,Banglow,1,2614,,3.0,0.0,Furnished,,,,8.38,206.17
+Yelahanka,Banglow,5,4159,,3.0,0.0,Unfurnished,,,,1.8,605.12
+Electronic City,Banglow,4,3687,,2.0,2.0,Furnished,,,,0.81,394.82
+Uttarahalli,Apartment,6,2336,4.0,3.0,1.0,Unfurnished,0.0,11.0,Simple Apartment,1.86,192.67
+Kanakpura Road,Apartment,5,2357,3.0,4.0,2.0,Unfurnished,1.0,11.0,Society,5.5,149.24
+Koramangala,Banglow,4,1313,,1.0,0.0,Unfurnished,,,,3.27,170.95
+Kengeri,Apartment,2,1935,2.0,2.0,1.0,Unfurnished,2.0,3.0,Simple Apartment,5.22,175.78
+Hoodi,Banglow,5,3450,,1.0,0.0,Semi-Furnished,,,,9.52,409.09
+Yelahanka,Banglow,5,3498,,2.0,2.0,Semi-Furnished,,,,2.58,475.7
+KR Puram,Banglow,2,3124,,2.0,1.0,Furnished,,,,4.02,254.67
+HSR Layout,Banglow,3,2019,,3.0,1.0,Furnished,,,,2.47,188.61
+Uttarahalli,Land,1,4127,,,,,,,,6.73,207.21
+KR Puram,Apartment,1,1810,2.0,2.0,2.0,Unfurnished,1.0,20.0,Simple Apartment,0.39,145.5
+Yelahanka,Banglow,5,4539,,2.0,0.0,Furnished,,,,1.97,325.74
+Hoodi,Apartment,6,709,3.0,4.0,1.0,Furnished,2.0,18.0,Society,1.2,28.78
+Hebbal,Land,5,1252,,,,,,,,7.56,100.1
+Koramangala,Banglow,6,2803,,3.0,2.0,Furnished,,,,4.76,285.82
+Bannerghatta Road,Land,3,2934,,,,,,,,2.59,72.62
+Rajaji Nagar,Land,2,2683,,,,,,,,2.53,194.27
+HSR Layout,Banglow,5,2077,,3.0,1.0,Unfurnished,,,,2.8,140.1
+Bannerghatta Road,Land,4,2509,,,,,,,,9.34,164.34
+Electronic City,Banglow,6,4959,,2.0,2.0,Semi-Furnished,,,,7.98,559.65
+Hebbal,Banglow,4,2814,,1.0,0.0,Furnished,,,,2.99,199.87
+JP Nagar,Apartment,2,2341,3.0,4.0,1.0,Unfurnished,2.0,8.0,Society,3.56,85.44
+Koramangala,Apartment,2,790,3.0,3.0,0.0,Semi-Furnished,2.0,16.0,Society,2.72,50.79
+Uttarahalli,Land,2,3896,,,,,,,,7.03,121.64
+Marathahalli,Apartment,4,1349,2.0,2.0,0.0,Unfurnished,2.0,16.0,Society,1.11,128.78
+Kengeri,Apartment,3,1212,3.0,3.0,1.0,Semi-Furnished,1.0,12.0,Society,0.9,89.92
+Yelahanka,Land,1,2203,,,,,,,,1.75,55.42
+Bellandur,Banglow,2,1564,,2.0,2.0,Semi-Furnished,,,,2.74,136.65
+Whitefield,Land,5,3938,,,,,,,,6.37,127.51
+Hebbal,Land,1,3276,,,,,,,,9.89,85.94
+Rajaji Nagar,Banglow,3,3061,,2.0,2.0,Furnished,,,,8.58,175.16
+Sarjapur Road,Banglow,4,1674,,2.0,0.0,Furnished,,,,7.08,226.25
+Hoodi,Banglow,1,2006,,1.0,1.0,Furnished,,,,4.54,293.78
+Indira Nagar,Apartment,5,1899,2.0,3.0,1.0,Furnished,1.0,11.0,Society,2.63,70.19
+KR Puram,Banglow,3,1971,,2.0,0.0,Furnished,,,,8.02,136.32
+Bellandur,Land,4,4784,,,,,,,,0.44,150.55
+Sarjapur Road,Banglow,3,4454,,1.0,0.0,Semi-Furnished,,,,9.77,215.64
+HSR Layout,Apartment,5,2042,4.0,2.0,1.0,Unfurnished,0.0,7.0,Society,9.74,183.92
+Indira Nagar,Apartment,5,1220,2.0,4.0,1.0,Semi-Furnished,1.0,2.0,Simple Apartment,6.91,63.34
+HSR Layout,Land,1,3687,,,,,,,,7.31,104.07
+Marathahalli,Land,2,1640,,,,,,,,4.31,59.37
+Uttarahalli,Apartment,6,1994,2.0,1.0,2.0,Unfurnished,0.0,16.0,Simple Apartment,4.66,181.24
+Kanakpura Road,Apartment,4,1434,4.0,1.0,2.0,Unfurnished,2.0,6.0,Simple Apartment,8.09,45.93
+Uttarahalli,Banglow,3,2482,,3.0,0.0,Unfurnished,,,,5.44,368.04
+Bannerghatta Road,Banglow,4,4579,,3.0,0.0,Furnished,,,,1.92,406.66
+Sarjapur Road,Apartment,6,1542,4.0,2.0,2.0,Furnished,2.0,9.0,Society,7.28,69.5
+Whitefield,Land,3,1995,,,,,,,,1.09,121.8
+HSR Layout,Banglow,5,2257,,2.0,0.0,Furnished,,,,1.8,240.52
+Whitefield,Banglow,3,1429,,4.0,1.0,Semi-Furnished,,,,4.56,97.33
+Marathahalli,Land,1,3953,,,,,,,,3.35,157.05
+Chikkalasandra,Land,4,3205,,,,,,,,6.28,130.52
+JP Nagar,Land,2,3161,,,,,,,,6.05,164.04
+Electronic City,Land,2,1741,,,,,,,,7.03,60.25
+Kengeri,Apartment,1,670,2.0,4.0,2.0,Furnished,1.0,12.0,Simple Apartment,4.81,44.53
+Bannerghatta Road,Apartment,4,1543,4.0,3.0,1.0,Unfurnished,0.0,14.0,Society,9.53,92.53
+HSR Layout,Banglow,5,1378,,1.0,1.0,Semi-Furnished,,,,9.9,98.3
+Marathahalli,Banglow,6,3746,,2.0,1.0,Furnished,,,,2.17,176.39
+Kanakpura Road,Apartment,1,1319,3.0,4.0,2.0,Semi-Furnished,0.0,4.0,Simple Apartment,7.73,123.22
+Kengeri,Land,3,824,,,,,,,,7.75,64.08
+Yelahanka,Banglow,4,2362,,4.0,1.0,Semi-Furnished,,,,2.55,170.32
+Electronic City,Land,1,1711,,,,,,,,0.88,124.62
+Yelahanka,Banglow,3,3852,,4.0,2.0,Furnished,,,,2.87,556.19
+Bellandur,Land,6,2991,,,,,,,,6.9,198.65
+Chikkalasandra,Banglow,5,2961,,3.0,1.0,Unfurnished,,,,0.17,352.33
+Sarjapur Road,Apartment,1,1959,3.0,3.0,0.0,Furnished,0.0,17.0,Simple Apartment,2.76,175.8
+KR Puram,Land,6,2130,,,,,,,,3.95,167.23
+Chikkalasandra,Banglow,2,4976,,1.0,0.0,Semi-Furnished,,,,4.88,229.22
+Marathahalli,Banglow,4,4148,,2.0,0.0,Unfurnished,,,,3.09,538.03
+Indira Nagar,Land,3,4936,,,,,,,,0.83,187.56
+Chikkalasandra,Land,1,3890,,,,,,,,2.7,147.15
+Marathahalli,Apartment,5,1517,2.0,1.0,0.0,Semi-Furnished,2.0,1.0,Simple Apartment,0.15,135.89
+Electronic City,Apartment,1,2445,3.0,1.0,2.0,Semi-Furnished,1.0,11.0,Society,1.51,148.03
+Bannerghatta Road,Banglow,2,3428,,3.0,1.0,Unfurnished,,,,1.37,206.08
+Whitefield,Land,1,1924,,,,,,,,4.91,54.67
+KR Puram,Apartment,3,2116,1.0,4.0,2.0,Semi-Furnished,1.0,7.0,Society,3.93,172.87
+Kanakpura Road,Banglow,5,4433,,1.0,0.0,Furnished,,,,7.12,597.37
+Chikkalasandra,Apartment,5,1113,2.0,2.0,1.0,Unfurnished,0.0,1.0,Society,9.28,62.18
+Sarjapur Road,Banglow,5,4760,,4.0,1.0,Unfurnished,,,,7.42,259.75
+Sarjapur Road,Banglow,6,3818,,4.0,0.0,Unfurnished,,,,7.46,540.68
+Bannerghatta Road,Land,3,627,,,,,,,,4.2,18.85
+Bannerghatta Road,Banglow,2,3427,,3.0,0.0,Semi-Furnished,,,,1.95,503.28
+Indira Nagar,Banglow,4,4698,,4.0,2.0,Semi-Furnished,,,,4.12,223.57
+Kengeri,Banglow,6,4416,,3.0,2.0,Furnished,,,,6.56,613.79
+Hebbal,Banglow,3,1875,,1.0,0.0,Semi-Furnished,,,,3.3,119.13
+Electronic City,Land,6,2117,,,,,,,,8.32,135.32
+Whitefield,Apartment,3,770,1.0,3.0,0.0,Furnished,2.0,8.0,Society,6.63,25.72
+HSR Layout,Apartment,5,2170,4.0,2.0,2.0,Furnished,0.0,4.0,Society,1.62,150.66
+Indira Nagar,Land,3,1179,,,,,,,,7.51,54.89
+Kanakpura Road,Apartment,5,1312,1.0,1.0,2.0,Furnished,2.0,8.0,Society,9.27,115.89
+KR Puram,Apartment,5,1924,1.0,4.0,2.0,Semi-Furnished,2.0,10.0,Society,4.96,113.3
+Kengeri,Apartment,1,1891,4.0,4.0,1.0,Unfurnished,0.0,1.0,Society,5.89,144.98
+Kanakpura Road,Apartment,2,1988,3.0,1.0,0.0,Semi-Furnished,1.0,16.0,Simple Apartment,1.4,180.36
+Yelahanka,Banglow,2,4555,,3.0,1.0,Furnished,,,,6.86,324.1
+Hoodi,Banglow,2,1411,,4.0,1.0,Furnished,,,,4.88,177.5
+Hoodi,Banglow,3,2806,,1.0,2.0,Semi-Furnished,,,,5.37,379.19
+Indira Nagar,Land,1,1950,,,,,,,,9.0,60.41
+KR Puram,Apartment,2,2016,2.0,1.0,0.0,Semi-Furnished,0.0,13.0,Simple Apartment,3.12,77.87
+Sarjapur Road,Land,5,3822,,,,,,,,3.79,218.25
+Rajaji Nagar,Apartment,2,1713,3.0,4.0,2.0,Unfurnished,2.0,3.0,Simple Apartment,7.06,162.77
+Bannerghatta Road,Banglow,4,1200,,3.0,2.0,Unfurnished,,,,0.77,104.47
+Marathahalli,Banglow,3,4063,,3.0,1.0,Unfurnished,,,,7.0,583.64
+Electronic City,Apartment,4,1868,1.0,2.0,0.0,Unfurnished,0.0,6.0,Society,4.69,61.08
+JP Nagar,Apartment,1,2342,4.0,1.0,1.0,Unfurnished,1.0,20.0,Society,7.81,113.39
+Indira Nagar,Land,6,2903,,,,,,,,8.94,108.66
+Uttarahalli,Land,1,4614,,,,,,,,8.52,254.68
+Marathahalli,Banglow,3,4001,,2.0,2.0,Furnished,,,,3.1,255.23
+Indira Nagar,Apartment,5,1878,3.0,4.0,2.0,Furnished,2.0,15.0,Simple Apartment,9.93,166.06
+Sarjapur Road,Land,5,4082,,,,,,,,1.8,202.33
+Sarjapur Road,Land,3,966,,,,,,,,2.34,57.09
+Bellandur,Land,3,1510,,,,,,,,0.9,59.72
+Electronic City,Land,3,1267,,,,,,,,5.6,60.65
+Sarjapur Road,Land,5,965,,,,,,,,0.47,65.05
+Uttarahalli,Land,1,4737,,,,,,,,0.72,340.75
+JP Nagar,Apartment,1,650,1.0,2.0,2.0,Semi-Furnished,2.0,5.0,Simple Apartment,8.14,37.41
+Sarjapur Road,Banglow,3,3158,,2.0,2.0,Unfurnished,,,,5.03,442.88
+Yelahanka,Banglow,2,1690,,4.0,2.0,Semi-Furnished,,,,7.04,113.23
+Hebbal,Apartment,1,1798,1.0,3.0,1.0,Furnished,2.0,14.0,Society,2.91,92.51
+Marathahalli,Apartment,6,1593,2.0,3.0,2.0,Furnished,2.0,5.0,Simple Apartment,1.2,133.25
+Indira Nagar,Apartment,2,1128,1.0,4.0,0.0,Furnished,0.0,13.0,Society,8.93,59.4
+KR Puram,Apartment,5,1749,3.0,4.0,1.0,Unfurnished,0.0,4.0,Simple Apartment,3.68,58.8
+Hoodi,Land,4,4064,,,,,,,,6.23,129.37
+Kanakpura Road,Apartment,6,1234,4.0,4.0,1.0,Furnished,1.0,16.0,Simple Apartment,0.84,60.4
+Whitefield,Land,3,3933,,,,,,,,1.34,123.76
+Indira Nagar,Land,6,2421,,,,,,,,5.4,127.33
+Bannerghatta Road,Banglow,6,3687,,1.0,0.0,Semi-Furnished,,,,4.37,518.51
+HSR Layout,Apartment,2,696,4.0,4.0,1.0,Furnished,1.0,2.0,Simple Apartment,2.95,29.76
+Bannerghatta Road,Land,2,4300,,,,,,,,1.48,315.77
+HSR Layout,Banglow,3,1900,,3.0,0.0,Semi-Furnished,,,,1.22,244.81
+Marathahalli,Land,4,969,,,,,,,,3.16,48.99
+Uttarahalli,Land,4,2229,,,,,,,,3.06,56.42
+Yelahanka,Land,3,1348,,,,,,,,8.0,84.75
+Yelahanka,Banglow,1,2138,,1.0,0.0,Semi-Furnished,,,,7.82,246.33
+HSR Layout,Banglow,1,3762,,4.0,0.0,Furnished,,,,4.39,282.33
+Sarjapur Road,Apartment,5,1096,1.0,2.0,2.0,Furnished,2.0,10.0,Simple Apartment,4.51,42.27
+Yelahanka,Land,3,2741,,,,,,,,1.25,213.06
+Koramangala,Banglow,3,4780,,2.0,2.0,Unfurnished,,,,4.52,571.77
+KR Puram,Apartment,4,2356,2.0,1.0,1.0,Unfurnished,0.0,6.0,Society,6.33,167.73
+Bellandur,Banglow,4,4756,,3.0,1.0,Semi-Furnished,,,,5.46,660.31
+Rajaji Nagar,Banglow,3,4862,,4.0,1.0,Furnished,,,,1.29,525.9
+Kengeri,Banglow,4,1687,,1.0,1.0,Furnished,,,,3.89,207.0
+Chikkalasandra,Apartment,2,1444,3.0,2.0,0.0,Furnished,1.0,1.0,Simple Apartment,1.83,78.43
+Rajaji Nagar,Banglow,5,4494,,1.0,0.0,Semi-Furnished,,,,3.8,334.15
+Electronic City,Banglow,3,2102,,3.0,2.0,Unfurnished,,,,4.67,163.45
+Kanakpura Road,Banglow,5,1610,,3.0,1.0,Semi-Furnished,,,,5.69,125.87
+Koramangala,Apartment,1,2438,1.0,1.0,1.0,Furnished,2.0,2.0,Simple Apartment,1.4,136.65
+JP Nagar,Banglow,4,4734,,3.0,1.0,Semi-Furnished,,,,0.21,330.59
+Uttarahalli,Apartment,1,1354,1.0,4.0,1.0,Unfurnished,0.0,11.0,Simple Apartment,4.95,133.93
+Bellandur,Apartment,5,2283,1.0,4.0,2.0,Unfurnished,2.0,2.0,Society,0.95,130.87
+Uttarahalli,Apartment,1,721,2.0,3.0,2.0,Semi-Furnished,0.0,13.0,Society,0.9,29.1
+Hoodi,Banglow,2,3534,,4.0,2.0,Unfurnished,,,,4.34,328.54
+Indira Nagar,Banglow,6,3355,,1.0,2.0,Semi-Furnished,,,,7.33,486.35
+Uttarahalli,Land,3,2370,,,,,,,,1.71,143.97
+Kengeri,Land,2,3111,,,,,,,,8.7,102.83
+HSR Layout,Land,5,3179,,,,,,,,6.45,219.37
+Hoodi,Apartment,4,1702,3.0,2.0,2.0,Semi-Furnished,0.0,18.0,Society,7.36,102.51
+Rajaji Nagar,Banglow,6,3946,,2.0,2.0,Unfurnished,,,,9.81,178.52
+KR Puram,Apartment,3,2234,4.0,3.0,2.0,Furnished,1.0,3.0,Simple Apartment,5.4,114.84
+KR Puram,Land,5,4105,,,,,,,,2.64,138.02
+Indira Nagar,Apartment,6,1264,2.0,1.0,2.0,Unfurnished,1.0,8.0,Society,6.11,111.22
+Koramangala,Land,5,2774,,,,,,,,8.73,153.6
+Bannerghatta Road,Apartment,2,2466,1.0,3.0,2.0,Furnished,2.0,7.0,Simple Apartment,2.48,117.25
+Hebbal,Land,6,4157,,,,,,,,5.86,144.03
+Uttarahalli,Apartment,5,661,2.0,1.0,0.0,Unfurnished,1.0,14.0,Simple Apartment,9.87,54.36
+Uttarahalli,Land,6,2332,,,,,,,,7.38,168.11
+Hebbal,Banglow,4,4997,,4.0,1.0,Unfurnished,,,,2.09,561.69
+Uttarahalli,Banglow,2,1578,,2.0,0.0,Semi-Furnished,,,,5.73,119.66
+Indira Nagar,Land,6,4762,,,,,,,,2.85,243.73
+Chikkalasandra,Apartment,2,1956,1.0,2.0,0.0,Unfurnished,1.0,19.0,Society,0.75,85.87
+Indira Nagar,Banglow,3,3745,,4.0,2.0,Unfurnished,,,,9.42,424.07
+JP Nagar,Banglow,3,1609,,1.0,1.0,Furnished,,,,8.03,188.47
+Marathahalli,Apartment,4,905,3.0,2.0,0.0,Unfurnished,1.0,1.0,Society,3.75,70.15
+Yelahanka,Land,3,3108,,,,,,,,1.77,201.65
+Electronic City,Banglow,5,4058,,3.0,0.0,Unfurnished,,,,9.25,220.07
+Electronic City,Apartment,5,680,1.0,3.0,1.0,Semi-Furnished,0.0,5.0,Society,8.2,23.59
+Hoodi,Banglow,6,4451,,1.0,1.0,Semi-Furnished,,,,8.76,609.77
+Kengeri,Apartment,2,1497,2.0,1.0,1.0,Semi-Furnished,0.0,2.0,Simple Apartment,9.79,141.14
+KR Puram,Apartment,6,950,3.0,2.0,2.0,Semi-Furnished,2.0,7.0,Society,6.25,63.25
+Rajaji Nagar,Apartment,1,1162,4.0,2.0,2.0,Semi-Furnished,0.0,1.0,Simple Apartment,4.44,100.89
+Kanakpura Road,Banglow,5,2256,,2.0,2.0,Semi-Furnished,,,,5.59,279.53
+Uttarahalli,Apartment,4,2044,1.0,3.0,0.0,Furnished,0.0,2.0,Society,2.42,70.24
+Whitefield,Banglow,1,4722,,3.0,2.0,Semi-Furnished,,,,0.63,409.51
+Indira Nagar,Banglow,1,2762,,3.0,2.0,Unfurnished,,,,2.26,140.69
+KR Puram,Land,5,4161,,,,,,,,1.81,149.82
+Rajaji Nagar,Banglow,4,3477,,1.0,0.0,Semi-Furnished,,,,5.19,261.44
+Chikkalasandra,Land,3,4565,,,,,,,,3.42,129.34
+HSR Layout,Land,3,3261,,,,,,,,5.01,150.37
+Koramangala,Land,6,1743,,,,,,,,9.69,101.96
+Uttarahalli,Banglow,5,3662,,2.0,0.0,Semi-Furnished,,,,9.76,370.99
+Whitefield,Apartment,3,845,3.0,3.0,1.0,Furnished,0.0,6.0,Simple Apartment,6.8,27.02
+Bannerghatta Road,Land,2,1463,,,,,,,,5.01,42.85
+Electronic City,Apartment,3,1837,1.0,2.0,1.0,Unfurnished,0.0,17.0,Simple Apartment,7.2,86.02
+HSR Layout,Apartment,1,1537,4.0,3.0,1.0,Furnished,1.0,19.0,Simple Apartment,0.32,92.2
+JP Nagar,Apartment,3,508,1.0,4.0,2.0,Unfurnished,2.0,6.0,Society,2.15,43.81
+Electronic City,Apartment,6,1088,3.0,3.0,1.0,Semi-Furnished,2.0,12.0,Simple Apartment,3.3,75.26
+JP Nagar,Land,5,4734,,,,,,,,9.34,174.06
+Kengeri,Apartment,3,1295,4.0,2.0,1.0,Semi-Furnished,0.0,16.0,Simple Apartment,0.82,105.97
+Uttarahalli,Land,2,1489,,,,,,,,8.48,94.64
+Whitefield,Land,5,3959,,,,,,,,9.52,112.55
+Marathahalli,Land,2,802,,,,,,,,0.83,58.2
+Yelahanka,Banglow,4,3593,,3.0,1.0,Semi-Furnished,,,,4.58,471.56
+Bannerghatta Road,Apartment,4,667,1.0,4.0,1.0,Semi-Furnished,0.0,5.0,Simple Apartment,2.2,39.95
+KR Puram,Banglow,4,2389,,2.0,1.0,Semi-Furnished,,,,5.46,318.52
+Yelahanka,Land,6,1058,,,,,,,,5.83,47.48
+Bannerghatta Road,Land,1,4806,,,,,,,,6.63,324.97
+Indira Nagar,Apartment,5,528,3.0,2.0,1.0,Furnished,1.0,18.0,Simple Apartment,2.38,52.38
+Marathahalli,Land,2,1949,,,,,,,,8.7,87.81
+Hebbal,Banglow,3,3067,,2.0,2.0,Semi-Furnished,,,,5.89,320.54
+Whitefield,Apartment,2,1338,2.0,4.0,2.0,Furnished,0.0,12.0,Society,0.3,91.57
+Uttarahalli,Land,5,2196,,,,,,,,1.24,115.24
+Indira Nagar,Apartment,2,933,1.0,1.0,0.0,Semi-Furnished,0.0,12.0,Simple Apartment,8.97,81.37
+Yelahanka,Land,4,3323,,,,,,,,9.99,147.25
+Rajaji Nagar,Land,5,1099,,,,,,,,4.6,40.28
+Hebbal,Land,3,4829,,,,,,,,2.4,270.27
+Indira Nagar,Banglow,1,3205,,4.0,0.0,Unfurnished,,,,8.41,474.24
+Marathahalli,Apartment,6,1938,3.0,2.0,0.0,Unfurnished,0.0,16.0,Simple Apartment,7.74,71.96
+Chikkalasandra,Banglow,3,1666,,3.0,2.0,Furnished,,,,9.81,225.52
+Indira Nagar,Banglow,5,1775,,4.0,2.0,Unfurnished,,,,2.33,261.17
+Bellandur,Land,1,3868,,,,,,,,1.85,98.49
+Electronic City,Banglow,2,3087,,2.0,1.0,Furnished,,,,1.4,282.81
+KR Puram,Land,3,2177,,,,,,,,3.09,58.85
+Marathahalli,Banglow,2,2683,,2.0,2.0,Furnished,,,,1.88,268.86
+Marathahalli,Land,1,1538,,,,,,,,0.5,81.94
+Kengeri,Banglow,6,2386,,2.0,1.0,Unfurnished,,,,3.31,165.11
+HSR Layout,Land,1,1176,,,,,,,,0.3,78.41
+Whitefield,Apartment,5,890,2.0,1.0,0.0,Furnished,2.0,7.0,Simple Apartment,8.87,66.99
+Sarjapur Road,Banglow,6,3854,,3.0,2.0,Unfurnished,,,,4.22,293.46
+Hoodi,Apartment,5,1294,1.0,2.0,1.0,Unfurnished,2.0,12.0,Simple Apartment,8.11,60.06
+Sarjapur Road,Apartment,5,1550,2.0,3.0,1.0,Furnished,1.0,20.0,Simple Apartment,9.22,52.54
+Rajaji Nagar,Banglow,3,2516,,1.0,0.0,Semi-Furnished,,,,1.08,124.78
+Marathahalli,Apartment,3,978,4.0,3.0,2.0,Furnished,2.0,4.0,Society,5.62,52.41
+Marathahalli,Apartment,3,1391,1.0,2.0,2.0,Furnished,2.0,4.0,Simple Apartment,6.37,102.46
+Yelahanka,Land,2,3822,,,,,,,,2.42,291.24
+Bellandur,Land,1,2958,,,,,,,,2.93,216.09
+Chikkalasandra,Land,5,3665,,,,,,,,9.04,181.34
+Sarjapur Road,Banglow,5,4277,,4.0,2.0,Furnished,,,,2.56,333.78
+Uttarahalli,Land,4,4237,,,,,,,,8.02,237.86
+Kengeri,Banglow,4,1486,,3.0,2.0,Semi-Furnished,,,,6.61,187.26
+Rajaji Nagar,Land,3,3588,,,,,,,,1.17,98.5
+KR Puram,Apartment,3,1932,4.0,2.0,0.0,Unfurnished,1.0,18.0,Simple Apartment,6.22,145.97
+Koramangala,Land,5,4457,,,,,,,,5.25,218.16
+Rajaji Nagar,Apartment,1,876,3.0,1.0,0.0,Semi-Furnished,1.0,5.0,Society,0.21,49.51
+Bannerghatta Road,Banglow,6,3131,,1.0,1.0,Unfurnished,,,,5.67,149.88
+Marathahalli,Land,4,4857,,,,,,,,9.06,296.0
+JP Nagar,Banglow,1,1354,,4.0,2.0,Semi-Furnished,,,,9.1,122.63
+Kanakpura Road,Banglow,5,1593,,2.0,2.0,Furnished,,,,9.57,178.0
+JP Nagar,Apartment,3,1953,1.0,2.0,2.0,Furnished,2.0,13.0,Simple Apartment,8.8,65.02
+Indira Nagar,Apartment,3,1602,3.0,1.0,2.0,Furnished,0.0,4.0,Society,7.28,96.21
+JP Nagar,Land,4,3418,,,,,,,,9.47,268.64
+Marathahalli,Apartment,3,524,2.0,3.0,2.0,Semi-Furnished,2.0,3.0,Simple Apartment,7.73,51.1
+HSR Layout,Banglow,2,2617,,3.0,2.0,Unfurnished,,,,6.02,294.87
+Hebbal,Banglow,3,2994,,1.0,0.0,Semi-Furnished,,,,4.08,252.42
+Uttarahalli,Banglow,4,3319,,1.0,0.0,Furnished,,,,0.16,470.15
+Hoodi,Banglow,2,4554,,3.0,0.0,Furnished,,,,8.62,376.3
+Kengeri,Land,4,4197,,,,,,,,7.06,186.55
+JP Nagar,Banglow,2,2632,,4.0,1.0,Furnished,,,,0.49,314.86
+Hoodi,Apartment,2,558,1.0,2.0,2.0,Unfurnished,0.0,15.0,Society,2.51,20.7
+Yelahanka,Apartment,1,2343,3.0,2.0,1.0,Unfurnished,1.0,20.0,Simple Apartment,4.26,136.11
+KR Puram,Banglow,3,1966,,1.0,1.0,Unfurnished,,,,5.37,202.22
+Indira Nagar,Land,1,2034,,,,,,,,0.43,111.8
+Sarjapur Road,Banglow,1,1820,,3.0,0.0,Semi-Furnished,,,,0.26,89.23
+KR Puram,Land,2,4234,,,,,,,,7.61,118.66
+Indira Nagar,Land,2,1357,,,,,,,,4.99,89.73
+KR Puram,Land,5,2600,,,,,,,,0.72,196.07
+Chikkalasandra,Land,5,887,,,,,,,,5.7,37.57
+Hoodi,Apartment,5,781,4.0,3.0,2.0,Unfurnished,1.0,9.0,Society,1.05,32.99
+Bannerghatta Road,Land,5,2414,,,,,,,,5.52,73.05
+Electronic City,Apartment,3,765,1.0,2.0,2.0,Semi-Furnished,0.0,4.0,Simple Apartment,2.78,71.29
+Sarjapur Road,Banglow,2,1790,,2.0,2.0,Semi-Furnished,,,,9.63,91.95
+Kengeri,Banglow,4,2413,,1.0,2.0,Unfurnished,,,,5.09,204.74
+KR Puram,Banglow,2,4050,,2.0,2.0,Semi-Furnished,,,,9.41,238.52
+Indira Nagar,Land,5,1616,,,,,,,,1.55,122.66
+Yelahanka,Apartment,2,739,1.0,4.0,0.0,Furnished,0.0,18.0,Simple Apartment,7.24,48.06
+Hoodi,Apartment,2,1977,2.0,3.0,1.0,Furnished,1.0,6.0,Simple Apartment,4.62,148.61
+Indira Nagar,Banglow,5,3353,,2.0,2.0,Semi-Furnished,,,,9.24,427.53
+Electronic City,Apartment,1,1744,1.0,3.0,0.0,Furnished,0.0,4.0,Simple Apartment,0.35,108.82
+Bellandur,Banglow,6,2701,,3.0,1.0,Furnished,,,,9.85,209.94
